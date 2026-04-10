@@ -1,0 +1,15 @@
+{
+  "name": "warn-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Daily scrape of NY DOL WARN notices for Western NY counties.",
+  "scripts": {
+    "scrape": "tsx scripts/scrape-warn.ts"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "playwright": "^1.50.0",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.0"
+  }
+}
