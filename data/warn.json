@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-04-13T13:57:32.049Z",
+  "scrapedAt": "2026-04-14T14:01:42.627Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 721,
+  "totalRows": 732,
   "filteredRows": 101,
   "targetCounties": [
     "Erie",
@@ -39,7 +39,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-18",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "2",
+      "AGG(Index)": "13",
       "MIN(Number of Affected Workers )": "78"
     },
     {
@@ -53,7 +53,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-06-24",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "5",
+      "AGG(Index)": "16",
       "MIN(Number of Affected Workers )": "170"
     },
     {
@@ -67,7 +67,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-30",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "36",
+      "AGG(Index)": "47",
       "MIN(Number of Affected Workers )": "542"
     },
     {
@@ -81,7 +81,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-05-11",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "50",
+      "AGG(Index)": "61",
       "MIN(Number of Affected Workers )": "30"
     },
     {
@@ -95,7 +95,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-25",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "52",
+      "AGG(Index)": "63",
       "MIN(Number of Affected Workers )": "69"
     },
     {
@@ -109,7 +109,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-03-20",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "105",
+      "AGG(Index)": "116",
       "MIN(Number of Affected Workers )": "69"
     },
     {
@@ -123,7 +123,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-09-19",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "254",
+      "AGG(Index)": "265",
       "MIN(Number of Affected Workers )": "25"
     },
     {
@@ -137,7 +137,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-09-19",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "255",
+      "AGG(Index)": "266",
       "MIN(Number of Affected Workers )": "19"
     },
     {
@@ -151,7 +151,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-12-16",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "256",
+      "AGG(Index)": "267",
       "MIN(Number of Affected Workers )": "3"
     },
     {
@@ -165,7 +165,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-12-16",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "257",
+      "AGG(Index)": "268",
       "MIN(Number of Affected Workers )": "5"
     },
     {
@@ -179,7 +179,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-09-05",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "289",
+      "AGG(Index)": "300",
       "MIN(Number of Affected Workers )": "60"
     },
     {
@@ -193,7 +193,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2024-11-07",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "296",
+      "AGG(Index)": "307",
       "MIN(Number of Affected Workers )": "1,433"
     },
     {
@@ -207,7 +207,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2023-11-16",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "314",
+      "AGG(Index)": "325",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -221,7 +221,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-11-26",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "334",
+      "AGG(Index)": "345",
       "MIN(Number of Affected Workers )": "125"
     },
     {
@@ -235,7 +235,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-12-02",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "353",
+      "AGG(Index)": "364",
       "MIN(Number of Affected Workers )": "83"
     },
     {
@@ -249,7 +249,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-10-20",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "366",
+      "AGG(Index)": "377",
       "MIN(Number of Affected Workers )": "93"
     },
     {
@@ -263,7 +263,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-06-30",
       "Permanent or Temporary Layoff?": "Temporary",
-      "AGG(Index)": "371",
+      "AGG(Index)": "382",
       "MIN(Number of Affected Workers )": "42"
     },
     {
@@ -277,7 +277,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-10-06",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "392",
+      "AGG(Index)": "403",
       "MIN(Number of Affected Workers )": "103"
     },
     {
@@ -291,7 +291,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-27",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "397",
+      "AGG(Index)": "408",
       "MIN(Number of Affected Workers )": "1"
     },
     {
@@ -305,7 +305,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "433",
+      "AGG(Index)": "444",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -319,7 +319,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "434",
+      "AGG(Index)": "445",
       "MIN(Number of Affected Workers )": "15"
     },
     {
@@ -333,7 +333,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "435",
+      "AGG(Index)": "446",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -347,7 +347,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "436",
+      "AGG(Index)": "447",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -361,7 +361,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "437",
+      "AGG(Index)": "448",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -375,7 +375,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "438",
+      "AGG(Index)": "449",
       "MIN(Number of Affected Workers )": "16"
     },
     {
@@ -389,7 +389,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "439",
+      "AGG(Index)": "450",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -403,7 +403,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "440",
+      "AGG(Index)": "451",
       "MIN(Number of Affected Workers )": "14"
     },
     {
@@ -417,7 +417,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "441",
+      "AGG(Index)": "452",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -431,7 +431,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "442",
+      "AGG(Index)": "453",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -445,7 +445,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "443",
+      "AGG(Index)": "454",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -459,7 +459,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "444",
+      "AGG(Index)": "455",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -473,7 +473,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "445",
+      "AGG(Index)": "456",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -487,7 +487,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "446",
+      "AGG(Index)": "457",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -501,7 +501,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "447",
+      "AGG(Index)": "458",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -515,7 +515,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "448",
+      "AGG(Index)": "459",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -529,7 +529,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "449",
+      "AGG(Index)": "460",
       "MIN(Number of Affected Workers )": "14"
     },
     {
@@ -543,7 +543,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "450",
+      "AGG(Index)": "461",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -557,7 +557,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "451",
+      "AGG(Index)": "462",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -571,7 +571,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "452",
+      "AGG(Index)": "463",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -585,7 +585,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "453",
+      "AGG(Index)": "464",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -599,7 +599,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "454",
+      "AGG(Index)": "465",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -613,7 +613,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "455",
+      "AGG(Index)": "466",
       "MIN(Number of Affected Workers )": "15"
     },
     {
@@ -627,7 +627,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "456",
+      "AGG(Index)": "467",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -641,7 +641,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "457",
+      "AGG(Index)": "468",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -655,7 +655,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "458",
+      "AGG(Index)": "469",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -669,7 +669,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "459",
+      "AGG(Index)": "470",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -683,7 +683,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "460",
+      "AGG(Index)": "471",
       "MIN(Number of Affected Workers )": "21"
     },
     {
@@ -697,7 +697,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "461",
+      "AGG(Index)": "472",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -711,7 +711,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "462",
+      "AGG(Index)": "473",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -725,7 +725,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "463",
+      "AGG(Index)": "474",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -739,7 +739,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "464",
+      "AGG(Index)": "475",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -753,7 +753,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "465",
+      "AGG(Index)": "476",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -767,7 +767,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "466",
+      "AGG(Index)": "477",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -781,7 +781,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "467",
+      "AGG(Index)": "478",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -795,7 +795,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "468",
+      "AGG(Index)": "479",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -809,7 +809,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "469",
+      "AGG(Index)": "480",
       "MIN(Number of Affected Workers )": "6"
     },
     {
@@ -823,7 +823,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "470",
+      "AGG(Index)": "481",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -837,7 +837,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "471",
+      "AGG(Index)": "482",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -851,7 +851,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "472",
+      "AGG(Index)": "483",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -865,7 +865,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "473",
+      "AGG(Index)": "484",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -879,7 +879,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "474",
+      "AGG(Index)": "485",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -893,7 +893,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "475",
+      "AGG(Index)": "486",
       "MIN(Number of Affected Workers )": "16"
     },
     {
@@ -907,7 +907,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "476",
+      "AGG(Index)": "487",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -921,7 +921,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "477",
+      "AGG(Index)": "488",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -935,7 +935,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "478",
+      "AGG(Index)": "489",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -949,7 +949,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "479",
+      "AGG(Index)": "490",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -963,7 +963,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "480",
+      "AGG(Index)": "491",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -977,7 +977,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "481",
+      "AGG(Index)": "492",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -991,7 +991,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "482",
+      "AGG(Index)": "493",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1005,7 +1005,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "484",
+      "AGG(Index)": "495",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1019,7 +1019,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "485",
+      "AGG(Index)": "496",
       "MIN(Number of Affected Workers )": "17"
     },
     {
@@ -1033,7 +1033,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "486",
+      "AGG(Index)": "497",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1047,7 +1047,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "487",
+      "AGG(Index)": "498",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -1061,7 +1061,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "488",
+      "AGG(Index)": "499",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1075,7 +1075,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "489",
+      "AGG(Index)": "500",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1089,7 +1089,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "503",
+      "AGG(Index)": "514",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -1103,7 +1103,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "506",
+      "AGG(Index)": "517",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1117,7 +1117,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "507",
+      "AGG(Index)": "518",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1131,7 +1131,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "508",
+      "AGG(Index)": "519",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1145,7 +1145,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "553",
+      "AGG(Index)": "564",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1159,7 +1159,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "554",
+      "AGG(Index)": "565",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -1173,7 +1173,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "555",
+      "AGG(Index)": "566",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1187,7 +1187,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "556",
+      "AGG(Index)": "567",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1201,7 +1201,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "557",
+      "AGG(Index)": "568",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1215,7 +1215,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "558",
+      "AGG(Index)": "569",
       "MIN(Number of Affected Workers )": "16"
     },
     {
@@ -1229,7 +1229,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "559",
+      "AGG(Index)": "570",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1243,7 +1243,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "560",
+      "AGG(Index)": "571",
       "MIN(Number of Affected Workers )": "15"
     },
     {
@@ -1257,7 +1257,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "561",
+      "AGG(Index)": "572",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1271,7 +1271,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "562",
+      "AGG(Index)": "573",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1285,7 +1285,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "563",
+      "AGG(Index)": "574",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -1299,7 +1299,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "564",
+      "AGG(Index)": "575",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -1313,7 +1313,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-27",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "654",
+      "AGG(Index)": "665",
       "MIN(Number of Affected Workers )": "15"
     },
     {
@@ -1327,7 +1327,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-02-26",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "671",
+      "AGG(Index)": "682",
       "MIN(Number of Affected Workers )": "38"
     },
     {
@@ -1341,7 +1341,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "673",
+      "AGG(Index)": "684",
       "MIN(Number of Affected Workers )": "129"
     },
     {
@@ -1355,7 +1355,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-05-30",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "674",
+      "AGG(Index)": "685",
       "MIN(Number of Affected Workers )": "112"
     },
     {
@@ -1369,7 +1369,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-01-30",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "690",
+      "AGG(Index)": "701",
       "MIN(Number of Affected Workers )": "28"
     },
     {
@@ -1383,7 +1383,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-05-05",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "697",
+      "AGG(Index)": "708",
       "MIN(Number of Affected Workers )": "93"
     },
     {
@@ -1397,7 +1397,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-05-02",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "705",
+      "AGG(Index)": "716",
       "MIN(Number of Affected Workers )": "64"
     },
     {
@@ -1411,7 +1411,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-03-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "710",
+      "AGG(Index)": "721",
       "MIN(Number of Affected Workers )": "46"
     },
     {
@@ -1425,7 +1425,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-03-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "711",
+      "AGG(Index)": "722",
       "MIN(Number of Affected Workers )": "26"
     },
     {
@@ -1439,7 +1439,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-03-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "715",
+      "AGG(Index)": "726",
       "MIN(Number of Affected Workers )": "133"
     }
   ],
@@ -1453,5 +1453,5 @@
     "Wyoming": 1,
     "Allegany": 1
   },
-  "summary": "Found 101 WARN notices for Western NY (out of 721 statewide).\n  - Erie: 63 notices\n  - Niagara: 17 notices\n  - Chautauqua: 10 notices\n  - Cattaraugus: 5 notices\n  - Genesee: 3 notices\n  - Orleans: 1 notices\n  - Wyoming: 1 notices\n  - Allegany: 1 notices"
+  "summary": "Found 101 WARN notices for Western NY (out of 732 statewide).\n  - Erie: 63 notices\n  - Niagara: 17 notices\n  - Chautauqua: 10 notices\n  - Cattaraugus: 5 notices\n  - Genesee: 3 notices\n  - Orleans: 1 notices\n  - Wyoming: 1 notices\n  - Allegany: 1 notices"
 }
