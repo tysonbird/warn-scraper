@@ -2,9 +2,9 @@
  * scrape-warn.ts
  *
  * Pulls NY DOL WARN notices from the public Tableau dashboard, filters
- * them down to the eight Western NY counties we care about, and writes
- * the result to data/warn.json so the GitHub Action can commit it back
- * to the repo.
+ * them down to the Western NY and Capital Region counties we care about,
+ * and writes the result to data/warn.json so the GitHub Action can commit
+ * it back to the repo.
  *
  * Why we go through Playwright + the Tableau JS Embedding API:
  * Tableau Public migrated to a thin-client SPA in 2025; the legacy
@@ -25,9 +25,18 @@ const TABLEAU_URL =
   'WorkerAdjustmentRetrainingNotificationWARN/WARN';
 
 const TARGET_COUNTIES = [
+  // Western NY
   'Erie', 'Niagara', 'Genesee', 'Chautauqua',
   'Cattaraugus', 'Wyoming', 'Orleans', 'Allegany',
+  // Capital Region (Albany area)
+  'Albany', 'Rensselaer', 'Schenectady', 'Saratoga',
+  'Columbia', 'Greene', 'Warren', 'Washington',
 ];
+
+// Window (in days) for the `recentRecords` rollup in the output JSON.
+// Based on "Date Posted" (the date NY DOL published the notice), not the
+// notice date or layoff start date.
+const RECENT_WINDOW_DAYS = 7;
 
 // The dashboard exposes several views; "WARN List" contains the full
 // 700+ row master table with one row per WARN notice. Its underlying
@@ -171,9 +180,21 @@ async function main(): Promise<void> {
       countyCounts[c] = (countyCounts[c] || 0) + 1;
     }
 
+    const cutoff = new Date();
+    cutoff.setUTCHours(0, 0, 0, 0);
+    cutoff.setUTCDate(cutoff.getUTCDate() - RECENT_WINDOW_DAYS);
+    const recentRecords = records.filter((rec) => {
+      const posted = rec['Date Posted'];
+      if (!posted) return false;
+      const d = new Date(posted);
+      return !isNaN(d.getTime()) && d >= cutoff;
+    });
+
     const summaryParts = [
-      `Found ${records.length} WARN notices for Western NY ` +
+      `Found ${records.length} WARN notices for target counties ` +
       `(out of ${rows.length} statewide).`,
+      `  ${recentRecords.length} posted in the last ${RECENT_WINDOW_DAYS} days ` +
+      `(since ${cutoff.toISOString().slice(0, 10)}).`,
     ];
     Object.entries(countyCounts)
       .sort((a, b) => b[1] - a[1])
@@ -186,9 +207,13 @@ async function main(): Promise<void> {
       source: TABLEAU_URL,
       totalRows: rows.length,
       filteredRows: records.length,
+      recentWindowDays: RECENT_WINDOW_DAYS,
+      recentCutoff: cutoff.toISOString().slice(0, 10),
+      recentCount: recentRecords.length,
       targetCounties: TARGET_COUNTIES,
       columns,
       records,
+      recentRecords,
       countyCounts,
       summary,
     };

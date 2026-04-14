@@ -1,7 +1,7 @@
 {
-  "scrapedAt": "2026-04-14T14:01:42.627Z",
+  "scrapedAt": "2026-04-10T19:54:32.319Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 732,
+  "totalRows": 721,
   "filteredRows": 101,
   "targetCounties": [
     "Erie",
@@ -11,7 +11,15 @@
     "Cattaraugus",
     "Wyoming",
     "Orleans",
-    "Allegany"
+    "Allegany",
+    "Albany",
+    "Rensselaer",
+    "Schenectady",
+    "Saratoga",
+    "Columbia",
+    "Greene",
+    "Warren",
+    "Washington"
   ],
   "columns": [
     "Date Posted",
@@ -57,6 +65,20 @@
       "MIN(Number of Affected Workers )": "170"
     },
     {
+      "Date Posted": "2026-03-25",
+      "Date of WARN Notice": "3/6/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Villa Mary Immaculate d/b/a St. Peter’s Nursing and Rehabilitation Center (SPNRC)",
+      "Impacted Site Address": "301 Hackett Boulevard  Albany, NY, 12208",
+      "Industry": "Health Care and Social Assistance",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-06-05",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "24",
+      "MIN(Number of Affected Workers )": "133"
+    },
+    {
       "Date Posted": "2026-03-17",
       "Date of WARN Notice": "2/27/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -69,6 +91,20 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "47",
       "MIN(Number of Affected Workers )": "542"
+    },
+    {
+      "Date Posted": "2026-03-10",
+      "Date of WARN Notice": "2/24/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Ultrepet, LLC. d/b/a Evergreen Recycling, LLC.",
+      "Impacted Site Address": "136C Fuller Road  ALBANY, NY, 12205",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-02-24",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "58",
+      "MIN(Number of Affected Workers )": "59"
     },
     {
       "Date Posted": "2026-03-04",
@@ -99,6 +135,62 @@
       "MIN(Number of Affected Workers )": "69"
     },
     {
+      "Date Posted": "2026-02-13",
+      "Date of WARN Notice": "1/12/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Schenectady",
+      "Business Legal Name": "TL Cannon Management Corp. - Applebee's (Capital)",
+      "Impacted Site Address": "268 Saratoga Road  Glenville, NY, 12302",
+      "Industry": "Accommodation and Food Services",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-04-12",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "74",
+      "MIN(Number of Affected Workers )": "15"
+    },
+    {
+      "Date Posted": "2026-02-09",
+      "Date of WARN Notice": "11/13/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Warren",
+      "Business Legal Name": "AngioDynamics, Inc.",
+      "Impacted Site Address": "8 Glens Falls Tech Park  Glens Falls, NY, 12801",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2026-02-27",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "92",
+      "MIN(Number of Affected Workers )": "1"
+    },
+    {
+      "Date Posted": "2026-02-09",
+      "Date of WARN Notice": "11/13/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Warren",
+      "Business Legal Name": "AngioDynamics, Inc.",
+      "Impacted Site Address": "24 Native Drive  Queensbury, NY, 12804",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2026-02-27",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "93",
+      "MIN(Number of Affected Workers )": "2"
+    },
+    {
+      "Date Posted": "2026-02-09",
+      "Date of WARN Notice": "11/13/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Warren",
+      "Business Legal Name": "AngioDynamics, Inc.",
+      "Impacted Site Address": "603 Queensbury Avenue  Queensbury, NY, 12804",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2026-02-27",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "94",
+      "MIN(Number of Affected Workers )": "48"
+    },
+    {
       "Date Posted": "2026-01-08",
       "Date of WARN Notice": "12/12/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -111,6 +203,20 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "116",
       "MIN(Number of Affected Workers )": "69"
+    },
+    {
+      "Date Posted": "2025-11-21",
+      "Date of WARN Notice": "10/7/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",
+      "Impacted Site Address": "1400 Washington Ave  Albany, NY, 12222",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-01-05",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "245",
+      "MIN(Number of Affected Workers )": "179"
     },
     {
       "Date Posted": "2025-11-13",
@@ -226,6 +332,20 @@
     },
     {
       "Date Posted": "2025-09-19",
+      "Date of WARN Notice": "9/4/2025",
+      "Workforce Development Area": "Columbia-Green Workforce NY",
+      "Impacted Site County": "Greene",
+      "Business Legal Name": "Essendant Co. and Essendant Management Services, LLC.",
+      "Impacted Site Address": "12089 US-9W  Coxsackie, NY, 12051",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-12-03",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "363",
+      "MIN(Number of Affected Workers )": "64"
+    },
+    {
+      "Date Posted": "2025-09-19",
       "Date of WARN Notice": "9/3/2025",
       "Workforce Development Area": "Chautauqua",
       "Impacted Site County": "Chautauqua",
@@ -281,6 +401,20 @@
       "MIN(Number of Affected Workers )": "103"
     },
     {
+      "Date Posted": "2025-07-24",
+      "Date of WARN Notice": "7/10/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Schenectady",
+      "Business Legal Name": "TOMRA NY Recycling, LLC",
+      "Impacted Site Address": "31 Opus Blvd  Rotterdam, NY, 12306",
+      "Industry": "Administrative and Support and Waste Management and Remediation Services",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-10-10",
+      "Permanent or Temporary Layoff?": "Temporary",
+      "AGG(Index)": "406",
+      "MIN(Number of Affected Workers )": "44"
+    },
+    {
       "Date Posted": "2025-07-21",
       "Date of WARN Notice": "4/30/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -293,6 +427,118 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "408",
       "MIN(Number of Affected Workers )": "1"
+    },
+    {
+      "Date Posted": "2025-07-21",
+      "Date of WARN Notice": "7/10/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Fellers, LLC.",
+      "Impacted Site Address": "8 Access Road Unit 3 Albany, NY, 12205",
+      "Industry": "Wholesale Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-27",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "409",
+      "MIN(Number of Affected Workers )": "2"
+    },
+    {
+      "Date Posted": "2025-07-03",
+      "Date of WARN Notice": "3/25/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Plug Power, Inc.",
+      "Impacted Site Address": "125 Vista Blvd.  Slingerlands, NY, 12159",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-06-23",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "414",
+      "MIN(Number of Affected Workers )": "278"
+    },
+    {
+      "Date Posted": "2025-07-03",
+      "Date of WARN Notice": "3/25/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Plug Power, Inc.",
+      "Impacted Site Address": "968 Albany Shaker Rd  Latham, NY, 12110",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-06-23",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "415",
+      "MIN(Number of Affected Workers )": "87"
+    },
+    {
+      "Date Posted": "2025-07-03",
+      "Date of WARN Notice": "3/25/2025",
+      "Workforce Development Area": "Saratoga-Warren-Washington",
+      "Impacted Site County": "Saratoga",
+      "Business Legal Name": "Plug Power, Inc.",
+      "Impacted Site Address": "620 Van Patten Drive  Clifton Park, NY, 12065",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-06-23",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "416",
+      "MIN(Number of Affected Workers )": "2"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "1225 Western Avenue  Albany, NY, 12203",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "438",
+      "MIN(Number of Affected Workers )": "16"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "1863 Central Avenue  Colonie, NY, 12205",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "439",
+      "MIN(Number of Affected Workers )": "11"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Rensselaer",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "83 Vandenburgh Ave  Troy, NY, 12180",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "440",
+      "MIN(Number of Affected Workers )": "12"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Rensselaer",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "272 Hoosick Street  Troy, NY, 12180",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "441",
+      "MIN(Number of Affected Workers )": "9"
     },
     {
       "Date Posted": "2025-05-23",
@@ -1303,6 +1549,90 @@
       "MIN(Number of Affected Workers )": "11"
     },
     {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Saratoga-Warren-Washington",
+      "Impacted Site County": "Saratoga",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "1483 Route 9  Clifton Park, NY, 12065",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "594",
+      "MIN(Number of Affected Workers )": "8"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Saratoga-Warren-Washington",
+      "Impacted Site County": "Saratoga",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "1701 Route 9  Clifton Park, NY, 12065",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "595",
+      "MIN(Number of Affected Workers )": "10"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Saratoga-Warren-Washington",
+      "Impacted Site County": "Saratoga",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "3027 Route 50  Saratoga Springs, NY, 12866",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "596",
+      "MIN(Number of Affected Workers )": "10"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Saratoga-Warren-Washington",
+      "Impacted Site County": "Warren",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "124 Ridge Street  Glens Falls, NY, 12801",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "597",
+      "MIN(Number of Affected Workers )": "11"
+    },
+    {
+      "Date Posted": "2025-05-22",
+      "Date of WARN Notice": "3/26/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Island Peer Review Org Inc. (IPRO)",
+      "Impacted Site Address": "20 Corporate Woods Blvd, 1st floor  Albany, NY, 12211",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-07-14",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "617",
+      "MIN(Number of Affected Workers )": "37"
+    },
+    {
+      "Date Posted": "2025-05-14",
+      "Date of WARN Notice": "3/21/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Cayuga Home for Children",
+      "Impacted Site Address": "5 Computer Drive West Suites 200 & 203 Albany, NY, 12205",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-06-30",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "628",
+      "MIN(Number of Affected Workers )": "2"
+    },
+    {
       "Date Posted": "2025-04-08",
       "Date of WARN Notice": "3/19/2025",
       "Workforce Development Area": "Niagara",
@@ -1443,15 +1773,37 @@
       "MIN(Number of Affected Workers )": "133"
     }
   ],
+  "recentRecords": [
+    {
+      "Date Posted": "2026-04-09",
+      "Date of WARN Notice": "2/10/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "McKesson",
+      "Impacted Site Address": "2700 North America Avenue  West Seneca, NY, 14224",
+      "Industry": "Wholesale Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-05-18",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "13",
+      "MIN(Number of Affected Workers )": "78"
+    }
+  ],
   "countyCounts": {
     "Erie": 63,
+    "Albany": 10,
     "Orleans": 1,
     "Niagara": 17,
+    "Schenectady": 2,
+    "Warren": 4,
     "Chautauqua": 10,
+    "Greene": 1,
+    "Saratoga": 4,
+    "Rensselaer": 2,
     "Cattaraugus": 5,
     "Genesee": 3,
     "Wyoming": 1,
     "Allegany": 1
   },
-  "summary": "Found 101 WARN notices for Western NY (out of 732 statewide).\n  - Erie: 63 notices\n  - Niagara: 17 notices\n  - Chautauqua: 10 notices\n  - Cattaraugus: 5 notices\n  - Genesee: 3 notices\n  - Orleans: 1 notices\n  - Wyoming: 1 notices\n  - Allegany: 1 notices"
+  "summary": "Found 101 WARN notices for Western NY (out of 721 statewide).\n  - Erie: 63 notices\n  - Niagara: 17 notices\n  - Chautauqua: 10 notices\n  - Cattaraugus: 5 notices\n  - Genesee: 3 notices\n  - Orleans: 1 notices\n  - Wyoming: 1 notices\n  - Allegany: 1 notices"
 }
