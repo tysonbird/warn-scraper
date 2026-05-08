@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-05-07T14:34:55.243Z",
+  "scrapedAt": "2026-05-08T14:05:43.586Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 761,
-  "filteredRows": 128,
+  "filteredRows": 129,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-04-30",
-  "recentCount": 1,
+  "recentCutoff": "2026-05-01",
+  "recentCount": 2,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -40,6 +40,20 @@
   ],
   "records": [
     {
+      "Date Posted": "2026-05-07",
+      "Date of WARN Notice": "5/5/2026",
+      "Workforce Development Area": "Saratoga-Warren-Washington",
+      "Impacted Site County": "Warren",
+      "Business Legal Name": "Etain, LLC.",
+      "Impacted Site Address": "6030-6032 US-9  Chestertown, NY, 12817",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-08-03",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "1",
+      "MIN(Number of Affected Workers )": "37"
+    },
+    {
       "Date Posted": "2026-05-05",
       "Date of WARN Notice": "4/27/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -50,7 +64,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-07-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "7",
+      "AGG(Index)": "8",
       "MIN(Number of Affected Workers )": "199"
     },
     {
@@ -64,7 +78,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-07-12",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "14",
+      "AGG(Index)": "15",
       "MIN(Number of Affected Workers )": "78"
     },
     {
@@ -78,7 +92,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-06-30",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "21",
+      "AGG(Index)": "22",
       "MIN(Number of Affected Workers )": "1"
     },
     {
@@ -92,7 +106,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-01-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "35",
+      "AGG(Index)": "36",
       "MIN(Number of Affected Workers )": "43"
     },
     {
@@ -106,7 +120,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-18",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "51",
+      "AGG(Index)": "52",
       "MIN(Number of Affected Workers )": "78"
     },
     {
@@ -120,7 +134,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-06-24",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "54",
+      "AGG(Index)": "55",
       "MIN(Number of Affected Workers )": "170"
     },
     {
@@ -134,7 +148,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-06-05",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "61",
+      "AGG(Index)": "62",
       "MIN(Number of Affected Workers )": "133"
     },
     {
@@ -148,7 +162,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-30",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "84",
+      "AGG(Index)": "85",
       "MIN(Number of Affected Workers )": "542"
     },
     {
@@ -162,7 +176,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-02-24",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "95",
+      "AGG(Index)": "96",
       "MIN(Number of Affected Workers )": "59"
     },
     {
@@ -176,7 +190,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-05-11",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "98",
+      "AGG(Index)": "99",
       "MIN(Number of Affected Workers )": "30"
     },
     {
@@ -190,7 +204,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-25",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "100",
+      "AGG(Index)": "101",
       "MIN(Number of Affected Workers )": "69"
     },
     {
@@ -204,7 +218,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-04-12",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "110",
+      "AGG(Index)": "111",
       "MIN(Number of Affected Workers )": "15"
     },
     {
@@ -218,7 +232,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-02-27",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "128",
+      "AGG(Index)": "129",
       "MIN(Number of Affected Workers )": "1"
     },
     {
@@ -232,7 +246,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-02-27",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "129",
+      "AGG(Index)": "130",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -246,7 +260,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-02-27",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "130",
+      "AGG(Index)": "131",
       "MIN(Number of Affected Workers )": "48"
     },
     {
@@ -1834,6 +1848,20 @@
   ],
   "recentRecords": [
     {
+      "Date Posted": "2026-05-07",
+      "Date of WARN Notice": "5/5/2026",
+      "Workforce Development Area": "Saratoga-Warren-Washington",
+      "Impacted Site County": "Warren",
+      "Business Legal Name": "Etain, LLC.",
+      "Impacted Site Address": "6030-6032 US-9  Chestertown, NY, 12817",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-08-03",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "1",
+      "MIN(Number of Affected Workers )": "37"
+    },
+    {
       "Date Posted": "2026-05-05",
       "Date of WARN Notice": "4/27/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -1844,17 +1872,17 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-07-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "7",
+      "AGG(Index)": "8",
       "MIN(Number of Affected Workers )": "199"
     }
   ],
   "countyCounts": {
+    "Warren": 5,
     "Erie": 64,
     "Albany": 13,
     "Orleans": 1,
     "Niagara": 17,
     "Schenectady": 2,
-    "Warren": 4,
     "Chautauqua": 10,
     "Greene": 1,
     "Saratoga": 4,
@@ -1864,5 +1892,5 @@
     "Wyoming": 1,
     "Allegany": 1
   },
-  "summary": "Found 128 WARN notices for target counties (out of 761 statewide).\n  1 posted in the last 7 days (since 2026-04-30).\n  - Erie: 64 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 10 notices\n  - Cattaraugus: 5 notices\n  - Warren: 4 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices\n  - Allegany: 1 notices"
+  "summary": "Found 129 WARN notices for target counties (out of 761 statewide).\n  2 posted in the last 7 days (since 2026-05-01).\n  - Erie: 64 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 10 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices\n  - Allegany: 1 notices"
 }
