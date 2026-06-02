@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-06-01T17:54:51.210Z",
+  "scrapedAt": "2026-06-02T16:46:12.593Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 783,
   "filteredRows": 130,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-05-25",
+  "recentCutoff": "2026-05-26",
   "recentCount": 1,
   "targetCounties": [
     "Erie",
@@ -471,7 +471,7 @@
       "Date Layoff/Closure Starts": "2025-06-30",
       "Permanent or Temporary Layoff?": "Temporary",
       "AGG(Index)": "434",
-      "MIN(Number of Affected Workers )": "42"
+      "MIN(Number of Affected Workers )": "128"
     },
     {
       "Date Posted": "2025-07-28",
@@ -1892,5 +1892,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 130 WARN notices for target counties (out of 783 statewide).\n  1 posted in the last 7 days (since 2026-05-25).\n  - Erie: 64 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 10 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Allegany: 2 notices\n  - Schenectady: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 130 WARN notices for target counties (out of 783 statewide).\n  1 posted in the last 7 days (since 2026-05-26).\n  - Erie: 64 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 10 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Allegany: 2 notices\n  - Schenectady: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
