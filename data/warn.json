@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-06-10T15:54:08.157Z",
+  "scrapedAt": "2026-06-11T16:14:29.139Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 785,
   "filteredRows": 130,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-06-03",
+  "recentCutoff": "2026-06-04",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -50,7 +50,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "16",
+      "AGG(Index)": "17",
       "MIN(Number of Affected Workers )": "45"
     },
     {
@@ -64,7 +64,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-08-03",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "35",
+      "AGG(Index)": "36",
       "MIN(Number of Affected Workers )": "37"
     },
     {
@@ -78,7 +78,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-07-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "42",
+      "AGG(Index)": "43",
       "MIN(Number of Affected Workers )": "199"
     },
     {
@@ -92,7 +92,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-07-12",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "48",
+      "AGG(Index)": "49",
       "MIN(Number of Affected Workers )": "78"
     },
     {
@@ -106,7 +106,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-06-30",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "55",
+      "AGG(Index)": "56",
       "MIN(Number of Affected Workers )": "1"
     },
     {
@@ -120,7 +120,7 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-01-31",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "69",
+      "AGG(Index)": "70",
       "MIN(Number of Affected Workers )": "43"
     },
     {
@@ -134,7 +134,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-18",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "85",
+      "AGG(Index)": "86",
       "MIN(Number of Affected Workers )": "78"
     },
     {
@@ -148,7 +148,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-06-24",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "88",
+      "AGG(Index)": "89",
       "MIN(Number of Affected Workers )": "170"
     },
     {
@@ -162,7 +162,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-06-05",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "94",
+      "AGG(Index)": "95",
       "MIN(Number of Affected Workers )": "133"
     },
     {
@@ -176,7 +176,7 @@
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-05-30",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "117",
+      "AGG(Index)": "118",
       "MIN(Number of Affected Workers )": "542"
     },
     {
@@ -1877,5 +1877,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 130 WARN notices for target counties (out of 785 statewide).\n  0 posted in the last 7 days (since 2026-06-03).\n  - Erie: 64 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 10 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Allegany: 2 notices\n  - Schenectady: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 130 WARN notices for target counties (out of 785 statewide).\n  0 posted in the last 7 days (since 2026-06-04).\n  - Erie: 64 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 10 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Allegany: 2 notices\n  - Schenectady: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
