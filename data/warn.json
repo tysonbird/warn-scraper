@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-06-29T15:58:46.652Z",
+  "scrapedAt": "2026-06-30T14:32:25.371Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 801,
+  "totalRows": 850,
   "filteredRows": 132,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-06-22",
+  "recentCutoff": "2026-06-23",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -371,21 +371,6 @@
       "MIN(Number of Affected Workers )": "2"
     },
     {
-      "Date Posted": "2025-11-21",
-      "Date of WARN Notice": "10/7/2025",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",
-      "Impacted Site Address": "1400 Washington Ave  Albany, NY, 12222",
-      "Industry": "Other Services (except Public Administration)",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-01-05",
-      "Reason for Layoff/Closure   ": "Contract Termination",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "16",
-      "MIN(Number of Affected Workers )": "179"
-    },
-    {
       "Date Posted": "2026-03-17",
       "Date of WARN Notice": "2/27/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -669,6 +654,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "64",
       "MIN(Number of Affected Workers )": "125"
+    },
+    {
+      "Date Posted": "2025-11-21",
+      "Date of WARN Notice": "10/7/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",
+      "Impacted Site Address": "1400 Washington Ave  Albany, NY, 12222",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-01-05",
+      "Reason for Layoff/Closure   ": "Contract Termination",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "65",
+      "MIN(Number of Affected Workers )": "179"
     },
     {
       "Date Posted": "2025-07-03",
@@ -2038,5 +2038,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 132 WARN notices for target counties (out of 801 statewide).\n  0 posted in the last 7 days (since 2026-06-22).\n  - Erie: 65 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 11 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 132 WARN notices for target counties (out of 850 statewide).\n  0 posted in the last 7 days (since 2026-06-23).\n  - Erie: 65 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 11 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
