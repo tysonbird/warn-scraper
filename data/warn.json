@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-07-10T14:42:09.654Z",
+  "scrapedAt": "2026-07-11T13:40:53.266Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 857,
+  "totalRows": 859,
   "filteredRows": 133,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-07-03",
+  "recentCutoff": "2026-07-04",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -86,21 +86,6 @@
       "MIN(Number of Affected Workers )": "1"
     },
     {
-      "Date Posted": "2026-04-06",
-      "Date of WARN Notice": "3/19/2026",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Bank of America",
-      "Impacted Site Address": "611 Jamison Road, STE 1275  Elma, NY, 14059",
-      "Industry": "Finance and Insurance",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-06-24",
-      "Reason for Layoff/Closure   ": "Expiration of Lease",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "1",
-      "MIN(Number of Affected Workers )": "170"
-    },
-    {
       "Date Posted": "2025-09-04",
       "Date of WARN Notice": "6/1/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -131,6 +116,21 @@
       "MIN(Number of Affected Workers )": "37"
     },
     {
+      "Date Posted": "2026-04-06",
+      "Date of WARN Notice": "3/19/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Bank of America",
+      "Impacted Site Address": "611 Jamison Road, STE 1275  Elma, NY, 14059",
+      "Industry": "Finance and Insurance",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-06-24",
+      "Reason for Layoff/Closure   ": "Expiration of Lease",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "2",
+      "MIN(Number of Affected Workers )": "170"
+    },
+    {
       "Date Posted": "2026-03-25",
       "Date of WARN Notice": "3/6/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -146,21 +146,6 @@
       "MIN(Number of Affected Workers )": "133"
     },
     {
-      "Date Posted": "2026-02-13",
-      "Date of WARN Notice": "1/12/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Schenectady",
-      "Business Legal Name": "TL Cannon Management Corp. - Applebee's (Capital)",
-      "Impacted Site Address": "268 Saratoga Road  Glenville, NY, 12302",
-      "Industry": "Accommodation and Food Services",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-04-12",
-      "Reason for Layoff/Closure   ": "Expiration of Lease",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "2",
-      "MIN(Number of Affected Workers )": "15"
-    },
-    {
       "Date Posted": "2026-03-10",
       "Date of WARN Notice": "2/24/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -174,6 +159,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "3",
       "MIN(Number of Affected Workers )": "59"
+    },
+    {
+      "Date Posted": "2026-02-13",
+      "Date of WARN Notice": "1/12/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Schenectady",
+      "Business Legal Name": "TL Cannon Management Corp. - Applebee's (Capital)",
+      "Impacted Site Address": "268 Saratoga Road  Glenville, NY, 12302",
+      "Industry": "Accommodation and Food Services",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-04-12",
+      "Reason for Layoff/Closure   ": "Expiration of Lease",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "3",
+      "MIN(Number of Affected Workers )": "15"
     },
     {
       "Date Posted": "2025-07-24",
@@ -221,21 +221,6 @@
       "MIN(Number of Affected Workers )": "45"
     },
     {
-      "Date Posted": "2025-09-08",
-      "Date of WARN Notice": "8/25/2025",
-      "Workforce Development Area": "Chautauqua",
-      "Impacted Site County": "Chautauqua",
-      "Business Legal Name": "RCA Servicer at Westfield",
-      "Impacted Site Address": "26 Cass St.  Westfield, NY, 14787",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-10-20",
-      "Reason for Layoff/Closure   ": "Expiration of Lease",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "5",
-      "MIN(Number of Affected Workers )": "93"
-    },
-    {
       "Date Posted": "2025-10-22",
       "Date of WARN Notice": "5/8/2025",
       "Workforce Development Area": "Niagara",
@@ -249,6 +234,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "6",
       "MIN(Number of Affected Workers )": "60"
+    },
+    {
+      "Date Posted": "2025-09-08",
+      "Date of WARN Notice": "8/25/2025",
+      "Workforce Development Area": "Chautauqua",
+      "Impacted Site County": "Chautauqua",
+      "Business Legal Name": "RCA Servicer at Westfield",
+      "Impacted Site Address": "26 Cass St.  Westfield, NY, 14787",
+      "Industry": "Health Care and Social Assistance",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-10-20",
+      "Reason for Layoff/Closure   ": "Expiration of Lease",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "6",
+      "MIN(Number of Affected Workers )": "93"
     },
     {
       "Date Posted": "2025-02-27",
@@ -682,7 +682,7 @@
       "Date Layoff/Closure Starts": "2026-01-05",
       "Reason for Layoff/Closure   ": "Contract Termination",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "65",
+      "AGG(Index)": "66",
       "MIN(Number of Affected Workers )": "179"
     },
     {
@@ -2053,5 +2053,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 133 WARN notices for target counties (out of 857 statewide).\n  0 posted in the last 7 days (since 2026-07-03).\n  - Erie: 65 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 133 WARN notices for target counties (out of 859 statewide).\n  0 posted in the last 7 days (since 2026-07-04).\n  - Erie: 65 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
