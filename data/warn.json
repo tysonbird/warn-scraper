@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-07-14T13:59:37.384Z",
+  "scrapedAt": "2026-07-15T13:56:31.325Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 862,
+  "totalRows": 863,
   "filteredRows": 133,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-07-07",
+  "recentCutoff": "2026-07-08",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -221,21 +221,6 @@
       "MIN(Number of Affected Workers )": "37"
     },
     {
-      "Date Posted": "2025-10-22",
-      "Date of WARN Notice": "5/8/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "Nuttall Gear, LLC.",
-      "Impacted Site Address": "2221 Niagara Falls Blvd  Niagara Falls, NY, 14304",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-09-05",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "6",
-      "MIN(Number of Affected Workers )": "60"
-    },
-    {
       "Date Posted": "2025-09-08",
       "Date of WARN Notice": "8/25/2025",
       "Workforce Development Area": "Chautauqua",
@@ -249,6 +234,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "6",
       "MIN(Number of Affected Workers )": "93"
+    },
+    {
+      "Date Posted": "2025-10-22",
+      "Date of WARN Notice": "5/8/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "Nuttall Gear, LLC.",
+      "Impacted Site Address": "2221 Niagara Falls Blvd  Niagara Falls, NY, 14304",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-09-05",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "7",
+      "MIN(Number of Affected Workers )": "60"
     },
     {
       "Date Posted": "2025-02-27",
@@ -322,23 +322,8 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Relocation of Business",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "13",
-      "MIN(Number of Affected Workers )": "15"
-    },
-    {
-      "Date Posted": "2025-03-07",
-      "Date of WARN Notice": "2/27/2025",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Tri Cor Direct Incorporated, an affiliate of Brady Corporation",
-      "Impacted Site Address": "2491 Wehrle Drive  Williamsville, NY, 14221",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-05-30",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "14",
-      "MIN(Number of Affected Workers )": "112"
+      "MIN(Number of Affected Workers )": "15"
     },
     {
       "Date Posted": "2026-02-09",
@@ -354,6 +339,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "15",
       "MIN(Number of Affected Workers )": "1"
+    },
+    {
+      "Date Posted": "2025-03-07",
+      "Date of WARN Notice": "2/27/2025",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Tri Cor Direct Incorporated, an affiliate of Brady Corporation",
+      "Impacted Site Address": "2491 Wehrle Drive  Williamsville, NY, 14221",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-05-30",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "15",
+      "MIN(Number of Affected Workers )": "112"
     },
     {
       "Date Posted": "2026-02-09",
@@ -2053,5 +2053,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 133 WARN notices for target counties (out of 862 statewide).\n  0 posted in the last 7 days (since 2026-07-07).\n  - Erie: 65 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 133 WARN notices for target counties (out of 863 statewide).\n  0 posted in the last 7 days (since 2026-07-08).\n  - Erie: 65 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
