@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-07-16T14:08:18.189Z",
+  "scrapedAt": "2026-07-17T13:52:00.360Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 863,
+  "totalRows": 864,
   "filteredRows": 133,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-07-09",
+  "recentCutoff": "2026-07-10",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -41,21 +41,6 @@
   ],
   "records": [
     {
-      "Date Posted": "2026-06-11",
-      "Date of WARN Notice": "4/30/2026",
-      "Workforce Development Area": "Chautauqua",
-      "Impacted Site County": "Chautauqua",
-      "Business Legal Name": "Bush Industries Inc. d/b/a eSolutions Group",
-      "Impacted Site Address": "One Mason Drive  Jamestown, NY, 14701",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-04-30",
-      "Reason for Layoff/Closure   ": "Bankruptcy",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "1",
-      "MIN(Number of Affected Workers )": "237"
-    },
-    {
       "Date Posted": "2026-04-21",
       "Date of WARN Notice": "4/1/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -84,6 +69,21 @@
       "Permanent or Temporary Layoff?": "Temporary",
       "AGG(Index)": "1",
       "MIN(Number of Affected Workers )": "128"
+    },
+    {
+      "Date Posted": "2026-06-11",
+      "Date of WARN Notice": "4/30/2026",
+      "Workforce Development Area": "Chautauqua",
+      "Impacted Site County": "Chautauqua",
+      "Business Legal Name": "Bush Industries Inc. d/b/a eSolutions Group",
+      "Impacted Site Address": "One Mason Drive  Jamestown, NY, 14701",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-04-30",
+      "Reason for Layoff/Closure   ": "Bankruptcy",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "2",
+      "MIN(Number of Affected Workers )": "237"
     },
     {
       "Date Posted": "2026-04-06",
@@ -2038,9 +2038,9 @@
   ],
   "recentRecords": [],
   "countyCounts": {
-    "Chautauqua": 12,
     "Albany": 13,
     "Erie": 65,
+    "Chautauqua": 12,
     "Schenectady": 2,
     "Allegany": 2,
     "Niagara": 17,
@@ -2053,5 +2053,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 133 WARN notices for target counties (out of 863 statewide).\n  0 posted in the last 7 days (since 2026-07-09).\n  - Erie: 65 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 133 WARN notices for target counties (out of 864 statewide).\n  0 posted in the last 7 days (since 2026-07-10).\n  - Erie: 65 notices\n  - Niagara: 17 notices\n  - Albany: 13 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
