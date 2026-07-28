@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-07-27T14:50:08.265Z",
+  "scrapedAt": "2026-07-28T14:24:30.166Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 874,
+  "totalRows": 876,
   "filteredRows": 135,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-07-20",
+  "recentCutoff": "2026-07-21",
   "recentCount": 2,
   "targetCounties": [
     "Erie",
@@ -86,21 +86,6 @@
       "MIN(Number of Affected Workers )": "128"
     },
     {
-      "Date Posted": "2026-07-23",
-      "Date of WARN Notice": "6/12/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Resideo, LLC. D/B/A ADI",
-      "Impacted Site Address": "1217 West Yard Road Unit A Feura Bush, NY, 12067",
-      "Industry": "Wholesale Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-09-15",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "2",
-      "MIN(Number of Affected Workers )": "55"
-    },
-    {
       "Date Posted": "2026-06-11",
       "Date of WARN Notice": "4/30/2026",
       "Workforce Development Area": "Chautauqua",
@@ -144,6 +129,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "2",
       "MIN(Number of Affected Workers )": "133"
+    },
+    {
+      "Date Posted": "2026-07-23",
+      "Date of WARN Notice": "6/12/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Resideo, LLC. D/B/A ADI",
+      "Impacted Site Address": "1217 West Yard Road Unit A Feura Bush, NY, 12067",
+      "Industry": "Wholesale Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-09-15",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "3",
+      "MIN(Number of Affected Workers )": "55"
     },
     {
       "Date Posted": "2026-03-10",
@@ -292,7 +292,7 @@
       "Date Layoff/Closure Starts": "2026-08-03",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "8",
+      "AGG(Index)": "9",
       "MIN(Number of Affected Workers )": "36"
     },
     {
@@ -311,21 +311,6 @@
       "MIN(Number of Affected Workers )": "37"
     },
     {
-      "Date Posted": "2025-10-22",
-      "Date of WARN Notice": "5/8/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "Nuttall Gear, LLC.",
-      "Impacted Site Address": "2221 Niagara Falls Blvd  Niagara Falls, NY, 14304",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-09-05",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "9",
-      "MIN(Number of Affected Workers )": "60"
-    },
-    {
       "Date Posted": "2026-04-27",
       "Date of WARN Notice": "4/13/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -339,6 +324,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "10",
       "MIN(Number of Affected Workers )": "78"
+    },
+    {
+      "Date Posted": "2025-10-22",
+      "Date of WARN Notice": "5/8/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "Nuttall Gear, LLC.",
+      "Impacted Site Address": "2221 Niagara Falls Blvd  Niagara Falls, NY, 14304",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-09-05",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "10",
+      "MIN(Number of Affected Workers )": "60"
     },
     {
       "Date Posted": "2026-04-09",
@@ -371,21 +371,6 @@
       "MIN(Number of Affected Workers )": "199"
     },
     {
-      "Date Posted": "2025-04-08",
-      "Date of WARN Notice": "3/19/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "The Katz Group Americas Inc.",
-      "Impacted Site Address": "3685 Lockport Rd.  Sanborn, NY, 14132",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-06-27",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "16",
-      "MIN(Number of Affected Workers )": "15"
-    },
-    {
       "Date Posted": "2026-02-09",
       "Date of WARN Notice": "11/13/2025",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -401,19 +386,19 @@
       "MIN(Number of Affected Workers )": "1"
     },
     {
-      "Date Posted": "2025-03-07",
-      "Date of WARN Notice": "2/27/2025",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Tri Cor Direct Incorporated, an affiliate of Brady Corporation",
-      "Impacted Site Address": "2491 Wehrle Drive  Williamsville, NY, 14221",
+      "Date Posted": "2025-04-08",
+      "Date of WARN Notice": "3/19/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "The Katz Group Americas Inc.",
+      "Impacted Site Address": "3685 Lockport Rd.  Sanborn, NY, 14132",
       "Industry": "Manufacturing",
       "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-05-30",
+      "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Relocation of Business",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "17",
-      "MIN(Number of Affected Workers )": "112"
+      "MIN(Number of Affected Workers )": "15"
     },
     {
       "Date Posted": "2026-02-09",
@@ -429,6 +414,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "18",
       "MIN(Number of Affected Workers )": "2"
+    },
+    {
+      "Date Posted": "2025-03-07",
+      "Date of WARN Notice": "2/27/2025",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Tri Cor Direct Incorporated, an affiliate of Brady Corporation",
+      "Impacted Site Address": "2491 Wehrle Drive  Williamsville, NY, 14221",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-05-30",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "18",
+      "MIN(Number of Affected Workers )": "112"
     },
     {
       "Date Posted": "2026-03-17",
@@ -517,7 +517,7 @@
       "Date Layoff/Closure Starts": "2026-01-31",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "31",
+      "AGG(Index)": "32",
       "MIN(Number of Affected Workers )": "43"
     },
     {
@@ -532,7 +532,7 @@
       "Date Layoff/Closure Starts": "2026-05-11",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "40",
+      "AGG(Index)": "41",
       "MIN(Number of Affected Workers )": "30"
     },
     {
@@ -547,23 +547,8 @@
       "Date Layoff/Closure Starts": "2026-03-20",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "44",
+      "AGG(Index)": "45",
       "MIN(Number of Affected Workers )": "69"
-    },
-    {
-      "Date Posted": "2025-11-13",
-      "Date of WARN Notice": "1/6/2025",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "CINQ NY Health Home IPA, LLC",
-      "Impacted Site Address": "564 Niagara Street Building 2 Buffalo, NY, 14201",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-09-19",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "47",
-      "MIN(Number of Affected Workers )": "25"
     },
     {
       "Date Posted": "2025-10-10",
@@ -586,13 +571,28 @@
       "Workforce Development Area": "Buffalo and Erie County",
       "Impacted Site County": "Erie",
       "Business Legal Name": "CINQ NY Health Home IPA, LLC",
-      "Impacted Site Address": "1195 Main Street  Buffalo, NY, 14209",
+      "Impacted Site Address": "564 Niagara Street Building 2 Buffalo, NY, 14201",
       "Industry": "Health Care and Social Assistance",
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-09-19",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "48",
+      "MIN(Number of Affected Workers )": "25"
+    },
+    {
+      "Date Posted": "2025-11-13",
+      "Date of WARN Notice": "1/6/2025",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "CINQ NY Health Home IPA, LLC",
+      "Impacted Site Address": "1195 Main Street  Buffalo, NY, 14209",
+      "Industry": "Health Care and Social Assistance",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-09-19",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "49",
       "MIN(Number of Affected Workers )": "19"
     },
     {
@@ -607,7 +607,7 @@
       "Date Layoff/Closure Starts": "2024-11-07",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "52",
+      "AGG(Index)": "53",
       "MIN(Number of Affected Workers )": "1,433"
     },
     {
@@ -682,7 +682,7 @@
       "Date Layoff/Closure Starts": "2025-10-06",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "67",
+      "AGG(Index)": "68",
       "MIN(Number of Affected Workers )": "103"
     },
     {
@@ -697,23 +697,8 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "68",
-      "MIN(Number of Affected Workers )": "1"
-    },
-    {
-      "Date Posted": "2025-07-21",
-      "Date of WARN Notice": "7/10/2025",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Fellers, LLC.",
-      "Impacted Site Address": "8 Access Road Unit 3 Albany, NY, 12205",
-      "Industry": "Wholesale Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-06-27",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "69",
-      "MIN(Number of Affected Workers )": "2"
+      "MIN(Number of Affected Workers )": "1"
     },
     {
       "Date Posted": "2025-07-03",
@@ -729,6 +714,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "69",
       "MIN(Number of Affected Workers )": "278"
+    },
+    {
+      "Date Posted": "2025-07-21",
+      "Date of WARN Notice": "7/10/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Fellers, LLC.",
+      "Impacted Site Address": "8 Access Road Unit 3 Albany, NY, 12205",
+      "Industry": "Wholesale Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-27",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "70",
+      "MIN(Number of Affected Workers )": "2"
     },
     {
       "Date Posted": "2025-07-03",
@@ -772,7 +772,7 @@
       "Date Layoff/Closure Starts": "2025-06-30",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "79",
+      "AGG(Index)": "80",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -911,21 +911,6 @@
       "MIN(Number of Affected Workers )": "12"
     },
     {
-      "Date Posted": "2025-03-07",
-      "Date of WARN Notice": "2/26/2025",
-      "Workforce Development Area": "Cattaraugus-Allegany",
-      "Impacted Site County": "Allegany",
-      "Business Legal Name": "Northern Lights Enterprises, Inc.",
-      "Impacted Site Address": "3474 Andover Road  Wellsville, NY, 14895",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-02-26",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "89",
-      "MIN(Number of Affected Workers )": "38"
-    },
-    {
       "Date Posted": "2025-05-23",
       "Date of WARN Notice": "5/5/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -939,6 +924,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "90",
       "MIN(Number of Affected Workers )": "11"
+    },
+    {
+      "Date Posted": "2025-03-07",
+      "Date of WARN Notice": "2/26/2025",
+      "Workforce Development Area": "Cattaraugus-Allegany",
+      "Impacted Site County": "Allegany",
+      "Business Legal Name": "Northern Lights Enterprises, Inc.",
+      "Impacted Site Address": "3474 Andover Road  Wellsville, NY, 14895",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-02-26",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "90",
+      "MIN(Number of Affected Workers )": "38"
     },
     {
       "Date Posted": "2025-05-23",
@@ -2094,7 +2094,7 @@
       "Date Layoff/Closure Starts": "2026-09-15",
       "Reason for Layoff/Closure   ": "Relocation of Business",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "2",
+      "AGG(Index)": "3",
       "MIN(Number of Affected Workers )": "55"
     }
   ],
@@ -2114,5 +2114,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 135 WARN notices for target counties (out of 874 statewide).\n  2 posted in the last 7 days (since 2026-07-20).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 135 WARN notices for target counties (out of 876 statewide).\n  2 posted in the last 7 days (since 2026-07-21).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
