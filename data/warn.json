@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-07-29T14:23:40.970Z",
+  "scrapedAt": "2026-07-30T14:19:22.938Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 878,
   "filteredRows": 135,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-07-22",
-  "recentCount": 2,
+  "recentCutoff": "2026-07-23",
+  "recentCount": 1,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -2068,21 +2068,6 @@
   ],
   "recentRecords": [
     {
-      "Date Posted": "2026-07-22",
-      "Date of WARN Notice": "2/24/2026",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "VanDeMark Chemical Inc.",
-      "Impacted Site Address": "1 North Transit Road  Lockport, NY, 14094",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-05-25",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "1",
-      "MIN(Number of Affected Workers )": "0"
-    },
-    {
       "Date Posted": "2026-07-23",
       "Date of WARN Notice": "6/12/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -2114,5 +2099,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 135 WARN notices for target counties (out of 878 statewide).\n  2 posted in the last 7 days (since 2026-07-22).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 135 WARN notices for target counties (out of 878 statewide).\n  1 posted in the last 7 days (since 2026-07-23).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
