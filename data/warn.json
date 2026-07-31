@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-07-30T14:19:22.938Z",
+  "scrapedAt": "2026-07-31T14:24:41.174Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 878,
   "filteredRows": 135,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-07-23",
-  "recentCount": 1,
+  "recentCutoff": "2026-07-24",
+  "recentCount": 0,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -65,7 +65,7 @@
       "Industry": "Other Services (except Public Administration)",
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-06-30",
-      "Reason for Layoff/Closure   ": "Contract LossContract TerminationEconomicFunding Loss",
+      "Reason for Layoff/Closure   ": "Contract Loss Contract Termination Economic Funding Loss",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "1",
       "MIN(Number of Affected Workers )": "1"
@@ -80,7 +80,7 @@
       "Industry": "Finance and Insurance",
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-06-30",
-      "Reason for Layoff/Closure   ": "Contract Loss, Contract Termination, Economic, Funding Loss, Sale of Business",
+      "Reason for Layoff/Closure   ": "Contract Loss Contract Termination Economic Funding Loss Sale of Business",
       "Permanent or Temporary Layoff?": "Temporary",
       "AGG(Index)": "1",
       "MIN(Number of Affected Workers )": "128"
@@ -275,7 +275,7 @@
       "Industry": "Other Services (except Public Administration)",
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-01-30",
-      "Reason for Layoff/Closure   ": "Economic, Other",
+      "Reason for Layoff/Closure   ": "Economic Other",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "7",
       "MIN(Number of Affected Workers )": "28"
@@ -2066,23 +2066,7 @@
       "MIN(Number of Affected Workers )": "93"
     }
   ],
-  "recentRecords": [
-    {
-      "Date Posted": "2026-07-23",
-      "Date of WARN Notice": "6/12/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Resideo, LLC. D/B/A ADI",
-      "Impacted Site Address": "1217 West Yard Road Unit A Feura Bush, NY, 12067",
-      "Industry": "Wholesale Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-09-15",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "3",
-      "MIN(Number of Affected Workers )": "55"
-    }
-  ],
+  "recentRecords": [],
   "countyCounts": {
     "Niagara": 17,
     "Albany": 14,
@@ -2099,5 +2083,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 135 WARN notices for target counties (out of 878 statewide).\n  1 posted in the last 7 days (since 2026-07-23).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 135 WARN notices for target counties (out of 878 statewide).\n  0 posted in the last 7 days (since 2026-07-24).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
