@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-08-03T14:54:00.668Z",
+  "scrapedAt": "2026-08-04T14:30:10.727Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 878,
+  "totalRows": 879,
   "filteredRows": 135,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-07-27",
+  "recentCutoff": "2026-07-28",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -472,7 +472,7 @@
       "Date Layoff/Closure Starts": "2025-12-16",
       "Reason for Layoff/Closure   ": "Sale of Business",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "24",
+      "AGG(Index)": "25",
       "MIN(Number of Affected Workers )": "3"
     },
     {
@@ -487,7 +487,7 @@
       "Date Layoff/Closure Starts": "2025-12-16",
       "Reason for Layoff/Closure   ": "Sale of Business",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "25",
+      "AGG(Index)": "26",
       "MIN(Number of Affected Workers )": "5"
     },
     {
@@ -2083,5 +2083,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 135 WARN notices for target counties (out of 878 statewide).\n  0 posted in the last 7 days (since 2026-07-27).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 135 WARN notices for target counties (out of 879 statewide).\n  0 posted in the last 7 days (since 2026-07-28).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
