@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-08-26T13:04:41.421Z",
+  "scrapedAt": "2026-08-27T22:07:35.712Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 891,
+  "totalRows": 888,
   "filteredRows": 135,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-08-19",
+  "recentCutoff": "2026-08-20",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -491,6 +491,21 @@
       "MIN(Number of Affected Workers )": "5"
     },
     {
+      "Date Posted": "2026-04-17",
+      "Date of WARN Notice": "1/13/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Federal Express Corporation (Capital Region)",
+      "Impacted Site Address": "590 Broadway  Menands, NY, 12189",
+      "Industry": "Transportation and Warehousing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2026-01-31",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "30",
+      "MIN(Number of Affected Workers )": "43"
+    },
+    {
       "Date Posted": "2025-05-22",
       "Date of WARN Notice": "3/26/2025",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -506,21 +521,6 @@
       "MIN(Number of Affected Workers )": "37"
     },
     {
-      "Date Posted": "2026-04-17",
-      "Date of WARN Notice": "1/13/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Federal Express Corporation (Capital Region)",
-      "Impacted Site Address": "590 Broadway  Menands, NY, 12189",
-      "Industry": "Transportation and Warehousing",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2026-01-31",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "33",
-      "MIN(Number of Affected Workers )": "43"
-    },
-    {
       "Date Posted": "2026-03-04",
       "Date of WARN Notice": "2/10/2026",
       "Workforce Development Area": "Genessee-Livingston-Orleans-Wyoming",
@@ -532,7 +532,7 @@
       "Date Layoff/Closure Starts": "2026-05-11",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "42",
+      "AGG(Index)": "39",
       "MIN(Number of Affected Workers )": "30"
     },
     {
@@ -547,7 +547,7 @@
       "Date Layoff/Closure Starts": "2026-03-20",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "46",
+      "AGG(Index)": "43",
       "MIN(Number of Affected Workers )": "69"
     },
     {
@@ -562,7 +562,7 @@
       "Date Layoff/Closure Starts": "2025-09-19",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "49",
+      "AGG(Index)": "46",
       "MIN(Number of Affected Workers )": "25"
     },
     {
@@ -577,7 +577,7 @@
       "Date Layoff/Closure Starts": "2025-09-19",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "50",
+      "AGG(Index)": "47",
       "MIN(Number of Affected Workers )": "19"
     },
     {
@@ -592,7 +592,7 @@
       "Date Layoff/Closure Starts": "2024-11-07",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "54",
+      "AGG(Index)": "51",
       "MIN(Number of Affected Workers )": "1,433"
     },
     {
@@ -641,6 +641,21 @@
       "MIN(Number of Affected Workers )": "83"
     },
     {
+      "Date Posted": "2025-07-28",
+      "Date of WARN Notice": "7/8/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "Cascades Holding US Inc.",
+      "Impacted Site Address": "4001 Packard Road  Niagara Falls, NY, 14303",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-10-06",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "66",
+      "MIN(Number of Affected Workers )": "103"
+    },
+    {
       "Date Posted": "2025-11-21",
       "Date of WARN Notice": "10/7/2025",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -671,21 +686,6 @@
       "MIN(Number of Affected Workers )": "125"
     },
     {
-      "Date Posted": "2025-07-28",
-      "Date of WARN Notice": "7/8/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "Cascades Holding US Inc.",
-      "Impacted Site Address": "4001 Packard Road  Niagara Falls, NY, 14303",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-10-06",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "69",
-      "MIN(Number of Affected Workers )": "103"
-    },
-    {
       "Date Posted": "2025-07-21",
       "Date of WARN Notice": "4/30/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -697,7 +697,7 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "70",
+      "AGG(Index)": "67",
       "MIN(Number of Affected Workers )": "1"
     },
     {
@@ -712,7 +712,7 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "71",
+      "AGG(Index)": "68",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -772,7 +772,7 @@
       "Date Layoff/Closure Starts": "2025-06-30",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "81",
+      "AGG(Index)": "78",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -804,6 +804,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "88",
       "MIN(Number of Affected Workers )": "16"
+    },
+    {
+      "Date Posted": "2025-03-07",
+      "Date of WARN Notice": "2/26/2025",
+      "Workforce Development Area": "Cattaraugus-Allegany",
+      "Impacted Site County": "Allegany",
+      "Business Legal Name": "Northern Lights Enterprises, Inc.",
+      "Impacted Site Address": "3474 Andover Road  Wellsville, NY, 14895",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-02-26",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "88",
+      "MIN(Number of Affected Workers )": "38"
     },
     {
       "Date Posted": "2025-01-17",
@@ -864,21 +879,6 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "91",
       "MIN(Number of Affected Workers )": "9"
-    },
-    {
-      "Date Posted": "2025-03-07",
-      "Date of WARN Notice": "2/26/2025",
-      "Workforce Development Area": "Cattaraugus-Allegany",
-      "Impacted Site County": "Allegany",
-      "Business Legal Name": "Northern Lights Enterprises, Inc.",
-      "Impacted Site Address": "3474 Andover Road  Wellsville, NY, 14895",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-02-26",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "91",
-      "MIN(Number of Affected Workers )": "38"
     },
     {
       "Date Posted": "2025-01-17",
@@ -2083,5 +2083,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 135 WARN notices for target counties (out of 891 statewide).\n  0 posted in the last 7 days (since 2026-08-19).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 135 WARN notices for target counties (out of 888 statewide).\n  0 posted in the last 7 days (since 2026-08-20).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
