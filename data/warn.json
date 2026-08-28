@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-08-27T22:07:35.712Z",
+  "scrapedAt": "2026-08-28T22:06:16.542Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 888,
-  "filteredRows": 135,
+  "totalRows": 889,
+  "filteredRows": 136,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-08-20",
-  "recentCount": 0,
+  "recentCutoff": "2026-08-21",
+  "recentCount": 1,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -40,6 +40,21 @@
     "MIN(Number of Affected Workers )"
   ],
   "records": [
+    {
+      "Date Posted": "2026-08-27",
+      "Date of WARN Notice": "7/9/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Buffalo Newspress Inc. d/b/a BNP Empowered Print",
+      "Impacted Site Address": "200 Broadway St  Buffalo, NY, 14204",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-07-09",
+      "Reason for Layoff/Closure   ": "Bankruptcy Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "1",
+      "MIN(Number of Affected Workers )": "81"
+    },
     {
       "Date Posted": "2026-04-21",
       "Date of WARN Notice": "4/1/2026",
@@ -2066,10 +2081,26 @@
       "MIN(Number of Affected Workers )": "93"
     }
   ],
-  "recentRecords": [],
+  "recentRecords": [
+    {
+      "Date Posted": "2026-08-27",
+      "Date of WARN Notice": "7/9/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Buffalo Newspress Inc. d/b/a BNP Empowered Print",
+      "Impacted Site Address": "200 Broadway St  Buffalo, NY, 14204",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-07-09",
+      "Reason for Layoff/Closure   ": "Bankruptcy Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "1",
+      "MIN(Number of Affected Workers )": "81"
+    }
+  ],
   "countyCounts": {
+    "Erie": 67,
     "Albany": 14,
-    "Erie": 66,
     "Chautauqua": 12,
     "Schenectady": 2,
     "Allegany": 2,
@@ -2083,5 +2114,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 135 WARN notices for target counties (out of 888 statewide).\n  0 posted in the last 7 days (since 2026-08-20).\n  - Erie: 66 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 136 WARN notices for target counties (out of 889 statewide).\n  1 posted in the last 7 days (since 2026-08-21).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
