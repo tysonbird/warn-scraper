@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-09-09T16:22:31.222Z",
+  "scrapedAt": "2026-09-10T16:13:19.750Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 891,
+  "totalRows": 890,
   "filteredRows": 137,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-09-02",
+  "recentCutoff": "2026-09-03",
   "recentCount": 1,
   "targetCounties": [
     "Erie",
@@ -161,6 +161,21 @@
       "MIN(Number of Affected Workers )": "55"
     },
     {
+      "Date Posted": "2026-03-10",
+      "Date of WARN Notice": "2/24/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Ultrepet, LLC. d/b/a Evergreen Recycling, LLC.",
+      "Impacted Site Address": "136C Fuller Road  ALBANY, NY, 12205",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-02-24",
+      "Reason for Layoff/Closure   ": "Funding Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "3",
+      "MIN(Number of Affected Workers )": "59"
+    },
+    {
       "Date Posted": "2026-02-13",
       "Date of WARN Notice": "1/12/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -204,21 +219,6 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "3",
       "MIN(Number of Affected Workers )": "64"
-    },
-    {
-      "Date Posted": "2026-03-10",
-      "Date of WARN Notice": "2/24/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Ultrepet, LLC. d/b/a Evergreen Recycling, LLC.",
-      "Impacted Site Address": "136C Fuller Road  ALBANY, NY, 12205",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-02-24",
-      "Reason for Layoff/Closure   ": "Funding Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "4",
-      "MIN(Number of Affected Workers )": "59"
     },
     {
       "Date Posted": "2025-09-08",
@@ -2130,5 +2130,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 137 WARN notices for target counties (out of 891 statewide).\n  1 posted in the last 7 days (since 2026-09-02).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 137 WARN notices for target counties (out of 890 statewide).\n  1 posted in the last 7 days (since 2026-09-03).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
