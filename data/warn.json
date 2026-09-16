@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-09-15T16:43:46.279Z",
+  "scrapedAt": "2026-09-16T16:36:44.366Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 892,
   "filteredRows": 137,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-09-08",
-  "recentCount": 1,
+  "recentCutoff": "2026-09-09",
+  "recentCount": 0,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -2096,23 +2096,7 @@
       "MIN(Number of Affected Workers )": "93"
     }
   ],
-  "recentRecords": [
-    {
-      "Date Posted": "2026-09-08",
-      "Date of WARN Notice": "7/30/2026",
-      "Workforce Development Area": "Columbia-Green Workforce NY",
-      "Impacted Site County": "Columbia",
-      "Business Legal Name": "Hudson Valley Fish Farm, Inc.",
-      "Impacted Site Address": "4269 Route 9  Hudson, NY, 12534",
-      "Industry": "Agriculture, Forestry, Fishing and Hunting",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-10-28",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "1",
-      "MIN(Number of Affected Workers )": "47"
-    }
-  ],
+  "recentRecords": [],
   "countyCounts": {
     "Columbia": 1,
     "Erie": 67,
@@ -2130,5 +2114,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 137 WARN notices for target counties (out of 892 statewide).\n  1 posted in the last 7 days (since 2026-09-08).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 137 WARN notices for target counties (out of 892 statewide).\n  0 posted in the last 7 days (since 2026-09-09).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
