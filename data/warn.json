@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-09-28T19:31:41.548Z",
+  "scrapedAt": "2026-09-29T17:58:02.754Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 897,
   "filteredRows": 137,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-09-21",
+  "recentCutoff": "2026-09-22",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -277,7 +277,7 @@
       "Date Layoff/Closure Starts": "2025-09-05",
       "Reason for Layoff/Closure   ": "Relocation of Business",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "10",
+      "AGG(Index)": "9",
       "MIN(Number of Affected Workers )": "60"
     },
     {
@@ -382,8 +382,23 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Relocation of Business",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "17",
+      "AGG(Index)": "16",
       "MIN(Number of Affected Workers )": "15"
+    },
+    {
+      "Date Posted": "2025-03-07",
+      "Date of WARN Notice": "2/27/2025",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Tri Cor Direct Incorporated, an affiliate of Brady Corporation",
+      "Impacted Site Address": "2491 Wehrle Drive  Williamsville, NY, 14221",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-05-30",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "17",
+      "MIN(Number of Affected Workers )": "112"
     },
     {
       "Date Posted": "2026-05-07",
@@ -399,21 +414,6 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "18",
       "MIN(Number of Affected Workers )": "37"
-    },
-    {
-      "Date Posted": "2025-03-07",
-      "Date of WARN Notice": "2/27/2025",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Tri Cor Direct Incorporated, an affiliate of Brady Corporation",
-      "Impacted Site Address": "2491 Wehrle Drive  Williamsville, NY, 14221",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-05-30",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "18",
-      "MIN(Number of Affected Workers )": "112"
     },
     {
       "Date Posted": "2026-02-09",
@@ -671,21 +671,6 @@
       "MIN(Number of Affected Workers )": "83"
     },
     {
-      "Date Posted": "2025-11-21",
-      "Date of WARN Notice": "10/7/2025",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",
-      "Impacted Site Address": "1400 Washington Ave  Albany, NY, 12222",
-      "Industry": "Other Services (except Public Administration)",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-01-05",
-      "Reason for Layoff/Closure   ": "Contract Termination",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "68",
-      "MIN(Number of Affected Workers )": "179"
-    },
-    {
       "Date Posted": "2025-07-28",
       "Date of WARN Notice": "7/8/2025",
       "Workforce Development Area": "Niagara",
@@ -699,6 +684,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "68",
       "MIN(Number of Affected Workers )": "103"
+    },
+    {
+      "Date Posted": "2025-11-21",
+      "Date of WARN Notice": "10/7/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",
+      "Impacted Site Address": "1400 Washington Ave  Albany, NY, 12222",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-01-05",
+      "Reason for Layoff/Closure   ": "Contract Termination",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "69",
+      "MIN(Number of Affected Workers )": "179"
     },
     {
       "Date Posted": "2025-10-06",
@@ -2114,5 +2114,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 137 WARN notices for target counties (out of 897 statewide).\n  0 posted in the last 7 days (since 2026-09-21).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 137 WARN notices for target counties (out of 897 statewide).\n  0 posted in the last 7 days (since 2026-09-22).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
