@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-10-01T18:19:05.163Z",
+  "scrapedAt": "2026-10-02T17:44:38.768Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 915,
+  "totalRows": 917,
   "filteredRows": 138,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-09-24",
+  "recentCutoff": "2026-09-25",
   "recentCount": 1,
   "targetCounties": [
     "Erie",
@@ -266,21 +266,6 @@
       "MIN(Number of Affected Workers )": "28"
     },
     {
-      "Date Posted": "2026-05-26",
-      "Date of WARN Notice": "5/8/2026",
-      "Workforce Development Area": "Cattaraugus-Allegany",
-      "Impacted Site County": "Allegany",
-      "Business Legal Name": "AVI Foodsystems, Inc.",
-      "Impacted Site Address": "1 Saxon Drive  Alfred, NY, 14802",
-      "Industry": "Accommodation and Food Services",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-05-31",
-      "Reason for Layoff/Closure   ": "Contract Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "9",
-      "MIN(Number of Affected Workers )": "45"
-    },
-    {
       "Date Posted": "2025-10-22",
       "Date of WARN Notice": "5/8/2025",
       "Workforce Development Area": "Niagara",
@@ -296,6 +281,21 @@
       "MIN(Number of Affected Workers )": "60"
     },
     {
+      "Date Posted": "2026-05-26",
+      "Date of WARN Notice": "5/8/2026",
+      "Workforce Development Area": "Cattaraugus-Allegany",
+      "Impacted Site County": "Allegany",
+      "Business Legal Name": "AVI Foodsystems, Inc.",
+      "Impacted Site Address": "1 Saxon Drive  Alfred, NY, 14802",
+      "Industry": "Accommodation and Food Services",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-05-31",
+      "Reason for Layoff/Closure   ": "Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "10",
+      "MIN(Number of Affected Workers )": "45"
+    },
+    {
       "Date Posted": "2026-07-17",
       "Date of WARN Notice": "3/27/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -307,23 +307,8 @@
       "Date Layoff/Closure Starts": "2026-08-03",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "12",
-      "MIN(Number of Affected Workers )": "36"
-    },
-    {
-      "Date Posted": "2026-04-27",
-      "Date of WARN Notice": "4/13/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Durham School Services, LP./Monroe School Transportation, Inc.",
-      "Impacted Site Address": "2721 2nd Ave  Watervliet, NY, 12189",
-      "Industry": "Transportation and Warehousing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-07-12",
-      "Reason for Layoff/Closure   ": "Contract Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "13",
-      "MIN(Number of Affected Workers )": "78"
+      "MIN(Number of Affected Workers )": "36"
     },
     {
       "Date Posted": "2026-07-22",
@@ -341,6 +326,21 @@
       "MIN(Number of Affected Workers )": "0"
     },
     {
+      "Date Posted": "2026-04-27",
+      "Date of WARN Notice": "4/13/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Durham School Services, LP./Monroe School Transportation, Inc.",
+      "Impacted Site Address": "2721 2nd Ave  Watervliet, NY, 12189",
+      "Industry": "Transportation and Warehousing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-07-12",
+      "Reason for Layoff/Closure   ": "Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "14",
+      "MIN(Number of Affected Workers )": "78"
+    },
+    {
       "Date Posted": "2026-07-01",
       "Date of WARN Notice": "5/27/2026",
       "Workforce Development Area": "Chautauqua",
@@ -356,21 +356,6 @@
       "MIN(Number of Affected Workers )": "79"
     },
     {
-      "Date Posted": "2026-04-09",
-      "Date of WARN Notice": "2/10/2026",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "McKesson",
-      "Impacted Site Address": "2700 North America Avenue  West Seneca, NY, 14224",
-      "Industry": "Wholesale Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-05-18",
-      "Reason for Layoff/Closure   ": "Contract Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "15",
-      "MIN(Number of Affected Workers )": "78"
-    },
-    {
       "Date Posted": "2026-06-18",
       "Date of WARN Notice": "6/2/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -384,6 +369,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "16",
       "MIN(Number of Affected Workers )": "37"
+    },
+    {
+      "Date Posted": "2026-04-09",
+      "Date of WARN Notice": "2/10/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "McKesson",
+      "Impacted Site Address": "2700 North America Avenue  West Seneca, NY, 14224",
+      "Industry": "Wholesale Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-05-18",
+      "Reason for Layoff/Closure   ": "Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "16",
+      "MIN(Number of Affected Workers )": "78"
     },
     {
       "Date Posted": "2025-04-08",
@@ -442,7 +442,7 @@
       "Date Layoff/Closure Starts": "2026-02-27",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "20",
+      "AGG(Index)": "21",
       "MIN(Number of Affected Workers )": "1"
     },
     {
@@ -457,7 +457,7 @@
       "Date Layoff/Closure Starts": "2026-02-27",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "21",
+      "AGG(Index)": "22",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -472,7 +472,7 @@
       "Date Layoff/Closure Starts": "2026-02-27",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "22",
+      "AGG(Index)": "23",
       "MIN(Number of Affected Workers )": "48"
     },
     {
@@ -562,7 +562,7 @@
       "Date Layoff/Closure Starts": "2026-01-31",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "32",
+      "AGG(Index)": "33",
       "MIN(Number of Affected Workers )": "43"
     },
     {
@@ -577,7 +577,7 @@
       "Date Layoff/Closure Starts": "2026-05-11",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "41",
+      "AGG(Index)": "42",
       "MIN(Number of Affected Workers )": "30"
     },
     {
@@ -592,7 +592,7 @@
       "Date Layoff/Closure Starts": "2026-03-20",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "45",
+      "AGG(Index)": "46",
       "MIN(Number of Affected Workers )": "69"
     },
     {
@@ -607,7 +607,7 @@
       "Date Layoff/Closure Starts": "2025-09-19",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "48",
+      "AGG(Index)": "49",
       "MIN(Number of Affected Workers )": "25"
     },
     {
@@ -622,7 +622,7 @@
       "Date Layoff/Closure Starts": "2025-09-19",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "49",
+      "AGG(Index)": "50",
       "MIN(Number of Affected Workers )": "19"
     },
     {
@@ -637,7 +637,7 @@
       "Date Layoff/Closure Starts": "2024-11-07",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "53",
+      "AGG(Index)": "54",
       "MIN(Number of Affected Workers )": "1,433"
     },
     {
@@ -686,21 +686,6 @@
       "MIN(Number of Affected Workers )": "83"
     },
     {
-      "Date Posted": "2025-07-28",
-      "Date of WARN Notice": "7/8/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "Cascades Holding US Inc.",
-      "Impacted Site Address": "4001 Packard Road  Niagara Falls, NY, 14303",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-10-06",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "68",
-      "MIN(Number of Affected Workers )": "103"
-    },
-    {
       "Date Posted": "2025-11-21",
       "Date of WARN Notice": "10/7/2025",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -716,6 +701,21 @@
       "MIN(Number of Affected Workers )": "179"
     },
     {
+      "Date Posted": "2025-07-28",
+      "Date of WARN Notice": "7/8/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "Cascades Holding US Inc.",
+      "Impacted Site Address": "4001 Packard Road  Niagara Falls, NY, 14303",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-10-06",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "69",
+      "MIN(Number of Affected Workers )": "103"
+    },
+    {
       "Date Posted": "2025-07-21",
       "Date of WARN Notice": "4/30/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -727,7 +727,7 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "69",
+      "AGG(Index)": "70",
       "MIN(Number of Affected Workers )": "1"
     },
     {
@@ -742,7 +742,7 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "70",
+      "AGG(Index)": "71",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -776,21 +776,6 @@
       "MIN(Number of Affected Workers )": "87"
     },
     {
-      "Date Posted": "2025-05-14",
-      "Date of WARN Notice": "3/21/2025",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Cayuga Home for Children",
-      "Impacted Site Address": "5 Computer Drive West Suites 200 & 203 Albany, NY, 12205",
-      "Industry": "Other Services (except Public Administration)",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-06-30",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "80",
-      "MIN(Number of Affected Workers )": "2"
-    },
-    {
       "Date Posted": "2025-07-03",
       "Date of WARN Notice": "3/25/2025",
       "Workforce Development Area": "Saratoga-Warren-Washington",
@@ -801,6 +786,21 @@
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-06-23",
       "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "81",
+      "MIN(Number of Affected Workers )": "2"
+    },
+    {
+      "Date Posted": "2025-05-14",
+      "Date of WARN Notice": "3/21/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Cayuga Home for Children",
+      "Impacted Site Address": "5 Computer Drive West Suites 200 & 203 Albany, NY, 12205",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-06-30",
+      "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "81",
       "MIN(Number of Affected Workers )": "2"
@@ -817,23 +817,8 @@
       "Date Layoff/Closure Starts": "2025-11-26",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "85",
+      "AGG(Index)": "86",
       "MIN(Number of Affected Workers )": "125"
-    },
-    {
-      "Date Posted": "2025-03-07",
-      "Date of WARN Notice": "2/26/2025",
-      "Workforce Development Area": "Cattaraugus-Allegany",
-      "Impacted Site County": "Allegany",
-      "Business Legal Name": "Northern Lights Enterprises, Inc.",
-      "Impacted Site Address": "3474 Andover Road  Wellsville, NY, 14895",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-02-26",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "90",
-      "MIN(Number of Affected Workers )": "38"
     },
     {
       "Date Posted": "2025-05-23",
@@ -849,6 +834,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "91",
       "MIN(Number of Affected Workers )": "16"
+    },
+    {
+      "Date Posted": "2025-03-07",
+      "Date of WARN Notice": "2/26/2025",
+      "Workforce Development Area": "Cattaraugus-Allegany",
+      "Impacted Site County": "Allegany",
+      "Business Legal Name": "Northern Lights Enterprises, Inc.",
+      "Impacted Site Address": "3474 Andover Road  Wellsville, NY, 14895",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-02-26",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "91",
+      "MIN(Number of Affected Workers )": "38"
     },
     {
       "Date Posted": "2025-05-23",
@@ -1031,21 +1031,6 @@
       "MIN(Number of Affected Workers )": "9"
     },
     {
-      "Date Posted": "2025-01-17",
-      "Date of WARN Notice": "12/31/2024",
-      "Workforce Development Area": "Cattaraugus-Allegany",
-      "Impacted Site County": "Cattaraugus",
-      "Business Legal Name": "Venture Forthe, Inc.",
-      "Impacted Site Address": "123 N. Union St.  Olean, NY, 14760",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-03-31",
-      "Reason for Layoff/Closure   ": "Contract Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "105",
-      "MIN(Number of Affected Workers )": "46"
-    },
-    {
       "Date Posted": "2025-05-23",
       "Date of WARN Notice": "5/5/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -1063,17 +1048,17 @@
     {
       "Date Posted": "2025-01-17",
       "Date of WARN Notice": "12/31/2024",
-      "Workforce Development Area": "Chautauqua",
-      "Impacted Site County": "Chautauqua",
+      "Workforce Development Area": "Cattaraugus-Allegany",
+      "Impacted Site County": "Cattaraugus",
       "Business Legal Name": "Venture Forthe, Inc.",
-      "Impacted Site Address": "560 W 3rd St. Suite 5 Jamestown, NY, 14701",
+      "Impacted Site Address": "123 N. Union St.  Olean, NY, 14760",
       "Industry": "Health Care and Social Assistance",
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-03-31",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "106",
-      "MIN(Number of Affected Workers )": "26"
+      "MIN(Number of Affected Workers )": "46"
     },
     {
       "Date Posted": "2025-05-23",
@@ -1089,6 +1074,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "107",
       "MIN(Number of Affected Workers )": "11"
+    },
+    {
+      "Date Posted": "2025-01-17",
+      "Date of WARN Notice": "12/31/2024",
+      "Workforce Development Area": "Chautauqua",
+      "Impacted Site County": "Chautauqua",
+      "Business Legal Name": "Venture Forthe, Inc.",
+      "Impacted Site Address": "560 W 3rd St. Suite 5 Jamestown, NY, 14701",
+      "Industry": "Health Care and Social Assistance",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-03-31",
+      "Reason for Layoff/Closure   ": "Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "107",
+      "MIN(Number of Affected Workers )": "26"
     },
     {
       "Date Posted": "2025-05-23",
@@ -1136,21 +1136,6 @@
       "MIN(Number of Affected Workers )": "7"
     },
     {
-      "Date Posted": "2025-01-17",
-      "Date of WARN Notice": "12/31/2024",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "Venture Forthe, Inc.",
-      "Impacted Site Address": "3900 Packard Rd.  Niagara Falls, NY, 14303",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-03-31",
-      "Reason for Layoff/Closure   ": "Contract Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "110",
-      "MIN(Number of Affected Workers )": "133"
-    },
-    {
       "Date Posted": "2025-05-23",
       "Date of WARN Notice": "5/5/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -1164,6 +1149,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "111",
       "MIN(Number of Affected Workers )": "13"
+    },
+    {
+      "Date Posted": "2025-01-17",
+      "Date of WARN Notice": "12/31/2024",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "Venture Forthe, Inc.",
+      "Impacted Site Address": "3900 Packard Rd.  Niagara Falls, NY, 14303",
+      "Industry": "Health Care and Social Assistance",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-03-31",
+      "Reason for Layoff/Closure   ": "Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "111",
+      "MIN(Number of Affected Workers )": "133"
     },
     {
       "Date Posted": "2025-05-23",
@@ -2134,8 +2134,8 @@
     "Chautauqua": 12,
     "Schenectady": 2,
     "Columbia": 1,
-    "Allegany": 2,
     "Niagara": 17,
+    "Allegany": 2,
     "Warren": 5,
     "Orleans": 1,
     "Greene": 1,
@@ -2145,5 +2145,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 138 WARN notices for target counties (out of 915 statewide).\n  1 posted in the last 7 days (since 2026-09-24).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 138 WARN notices for target counties (out of 917 statewide).\n  1 posted in the last 7 days (since 2026-09-25).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
