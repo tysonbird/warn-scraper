@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-10-12T21:09:46.274Z",
+  "scrapedAt": "2026-10-13T19:08:36.294Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 921,
+  "totalRows": 924,
   "filteredRows": 138,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-10-05",
+  "recentCutoff": "2026-10-06",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -296,21 +296,6 @@
       "MIN(Number of Affected Workers )": "60"
     },
     {
-      "Date Posted": "2026-07-17",
-      "Date of WARN Notice": "3/27/2026",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Federal Express Corporation (Multiple Regions)",
-      "Impacted Site Address": "299 Cayuga Road  Cheektowaga, NY, 14225",
-      "Industry": "Transportation and Warehousing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-08-03",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "13",
-      "MIN(Number of Affected Workers )": "36"
-    },
-    {
       "Date Posted": "2026-04-27",
       "Date of WARN Notice": "4/13/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -339,6 +324,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "15",
       "MIN(Number of Affected Workers )": "0"
+    },
+    {
+      "Date Posted": "2026-07-17",
+      "Date of WARN Notice": "3/27/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Federal Express Corporation (Multiple Regions)",
+      "Impacted Site Address": "299 Cayuga Road  Cheektowaga, NY, 14225",
+      "Industry": "Transportation and Warehousing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-08-03",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "16",
+      "MIN(Number of Affected Workers )": "36"
     },
     {
       "Date Posted": "2026-07-01",
@@ -536,21 +536,6 @@
       "MIN(Number of Affected Workers )": "542"
     },
     {
-      "Date Posted": "2026-04-17",
-      "Date of WARN Notice": "1/13/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Federal Express Corporation (Capital Region)",
-      "Impacted Site Address": "590 Broadway  Menands, NY, 12189",
-      "Industry": "Transportation and Warehousing",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2026-01-31",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "33",
-      "MIN(Number of Affected Workers )": "43"
-    },
-    {
       "Date Posted": "2025-05-22",
       "Date of WARN Notice": "3/26/2025",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -566,6 +551,21 @@
       "MIN(Number of Affected Workers )": "37"
     },
     {
+      "Date Posted": "2026-04-17",
+      "Date of WARN Notice": "1/13/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Federal Express Corporation (Capital Region)",
+      "Impacted Site Address": "590 Broadway  Menands, NY, 12189",
+      "Industry": "Transportation and Warehousing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2026-01-31",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "36",
+      "MIN(Number of Affected Workers )": "43"
+    },
+    {
       "Date Posted": "2026-03-04",
       "Date of WARN Notice": "2/10/2026",
       "Workforce Development Area": "Genessee-Livingston-Orleans-Wyoming",
@@ -577,7 +577,7 @@
       "Date Layoff/Closure Starts": "2026-05-11",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "42",
+      "AGG(Index)": "45",
       "MIN(Number of Affected Workers )": "30"
     },
     {
@@ -592,7 +592,7 @@
       "Date Layoff/Closure Starts": "2026-03-20",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "46",
+      "AGG(Index)": "49",
       "MIN(Number of Affected Workers )": "69"
     },
     {
@@ -607,7 +607,7 @@
       "Date Layoff/Closure Starts": "2025-09-19",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "49",
+      "AGG(Index)": "52",
       "MIN(Number of Affected Workers )": "25"
     },
     {
@@ -622,7 +622,7 @@
       "Date Layoff/Closure Starts": "2025-09-19",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "50",
+      "AGG(Index)": "53",
       "MIN(Number of Affected Workers )": "19"
     },
     {
@@ -637,7 +637,7 @@
       "Date Layoff/Closure Starts": "2024-11-07",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "54",
+      "AGG(Index)": "57",
       "MIN(Number of Affected Workers )": "1,433"
     },
     {
@@ -712,7 +712,7 @@
       "Date Layoff/Closure Starts": "2025-10-06",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "69",
+      "AGG(Index)": "72",
       "MIN(Number of Affected Workers )": "103"
     },
     {
@@ -727,7 +727,7 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "70",
+      "AGG(Index)": "73",
       "MIN(Number of Affected Workers )": "1"
     },
     {
@@ -742,7 +742,7 @@
       "Date Layoff/Closure Starts": "2025-06-27",
       "Reason for Layoff/Closure   ": "Other",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "71",
+      "AGG(Index)": "74",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -776,21 +776,6 @@
       "MIN(Number of Affected Workers )": "87"
     },
     {
-      "Date Posted": "2025-05-14",
-      "Date of WARN Notice": "3/21/2025",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Cayuga Home for Children",
-      "Impacted Site Address": "5 Computer Drive West Suites 200 & 203 Albany, NY, 12205",
-      "Industry": "Other Services (except Public Administration)",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-06-30",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "81",
-      "MIN(Number of Affected Workers )": "2"
-    },
-    {
       "Date Posted": "2025-07-03",
       "Date of WARN Notice": "3/25/2025",
       "Workforce Development Area": "Saratoga-Warren-Washington",
@@ -803,6 +788,21 @@
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "82",
+      "MIN(Number of Affected Workers )": "2"
+    },
+    {
+      "Date Posted": "2025-05-14",
+      "Date of WARN Notice": "3/21/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Cayuga Home for Children",
+      "Impacted Site Address": "5 Computer Drive West Suites 200 & 203 Albany, NY, 12205",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-06-30",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "84",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -819,21 +819,6 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "86",
       "MIN(Number of Affected Workers )": "125"
-    },
-    {
-      "Date Posted": "2025-03-07",
-      "Date of WARN Notice": "2/26/2025",
-      "Workforce Development Area": "Cattaraugus-Allegany",
-      "Impacted Site County": "Allegany",
-      "Business Legal Name": "Northern Lights Enterprises, Inc.",
-      "Impacted Site Address": "3474 Andover Road  Wellsville, NY, 14895",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-02-26",
-      "Reason for Layoff/Closure   ": "Other",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "91",
-      "MIN(Number of Affected Workers )": "38"
     },
     {
       "Date Posted": "2025-05-23",
@@ -879,6 +864,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "94",
       "MIN(Number of Affected Workers )": "12"
+    },
+    {
+      "Date Posted": "2025-03-07",
+      "Date of WARN Notice": "2/26/2025",
+      "Workforce Development Area": "Cattaraugus-Allegany",
+      "Impacted Site County": "Allegany",
+      "Business Legal Name": "Northern Lights Enterprises, Inc.",
+      "Impacted Site Address": "3474 Andover Road  Wellsville, NY, 14895",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-02-26",
+      "Reason for Layoff/Closure   ": "Other",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "94",
+      "MIN(Number of Affected Workers )": "38"
     },
     {
       "Date Posted": "2025-05-23",
@@ -2129,5 +2129,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 138 WARN notices for target counties (out of 921 statewide).\n  0 posted in the last 7 days (since 2026-10-05).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 138 WARN notices for target counties (out of 924 statewide).\n  0 posted in the last 7 days (since 2026-10-06).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
