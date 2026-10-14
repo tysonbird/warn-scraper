@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-10-13T19:08:36.294Z",
+  "scrapedAt": "2026-10-14T16:57:11.734Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 924,
+  "totalRows": 925,
   "filteredRows": 138,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-10-06",
+  "recentCutoff": "2026-10-07",
   "recentCount": 0,
   "targetCounties": [
     "Erie",
@@ -191,21 +191,6 @@
       "MIN(Number of Affected Workers )": "55"
     },
     {
-      "Date Posted": "2026-09-29",
-      "Date of WARN Notice": "8/11/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "ThreeC Logistics, LLC.",
-      "Impacted Site Address": "1 Mustang Dr.  Cohoes, NY, 12047",
-      "Industry": "Transportation and Warehousing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-11-11",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "5",
-      "MIN(Number of Affected Workers )": "78"
-    },
-    {
       "Date Posted": "2026-03-10",
       "Date of WARN Notice": "2/24/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -219,6 +204,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "5",
       "MIN(Number of Affected Workers )": "59"
+    },
+    {
+      "Date Posted": "2026-09-29",
+      "Date of WARN Notice": "8/11/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "ThreeC Logistics, LLC.",
+      "Impacted Site Address": "1 Mustang Dr.  Cohoes, NY, 12047",
+      "Industry": "Transportation and Warehousing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-11-11",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "6",
+      "MIN(Number of Affected Workers )": "78"
     },
     {
       "Date Posted": "2025-09-08",
@@ -262,7 +262,7 @@
       "Date Layoff/Closure Starts": "2026-10-28",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "8",
+      "AGG(Index)": "9",
       "MIN(Number of Affected Workers )": "47"
     },
     {
@@ -322,7 +322,7 @@
       "Date Layoff/Closure Starts": "2026-05-25",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "15",
+      "AGG(Index)": "16",
       "MIN(Number of Affected Workers )": "0"
     },
     {
@@ -339,21 +339,6 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "16",
       "MIN(Number of Affected Workers )": "36"
-    },
-    {
-      "Date Posted": "2026-07-01",
-      "Date of WARN Notice": "5/27/2026",
-      "Workforce Development Area": "Chautauqua",
-      "Impacted Site County": "Chautauqua",
-      "Business Legal Name": "Saint-Gobain Ceramics & Plastics, Inc. (Monofrax, LLC.)",
-      "Impacted Site Address": "1870 New York Avenue  Falconer, NY, 14733",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2026-09-01",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "16",
-      "MIN(Number of Affected Workers )": "79"
     },
     {
       "Date Posted": "2026-04-09",
@@ -386,19 +371,19 @@
       "MIN(Number of Affected Workers )": "15"
     },
     {
-      "Date Posted": "2026-06-18",
-      "Date of WARN Notice": "6/2/2026",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Jennie B. Richmond Nursing Home",
-      "Impacted Site Address": "222 East Main St  Springville, NY, 14141",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-08-31",
+      "Date Posted": "2026-07-01",
+      "Date of WARN Notice": "5/27/2026",
+      "Workforce Development Area": "Chautauqua",
+      "Impacted Site County": "Chautauqua",
+      "Business Legal Name": "Saint-Gobain Ceramics & Plastics, Inc. (Monofrax, LLC.)",
+      "Impacted Site Address": "1870 New York Avenue  Falconer, NY, 14733",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2026-09-01",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "17",
-      "MIN(Number of Affected Workers )": "37"
+      "MIN(Number of Affected Workers )": "79"
     },
     {
       "Date Posted": "2025-03-07",
@@ -416,6 +401,21 @@
       "MIN(Number of Affected Workers )": "112"
     },
     {
+      "Date Posted": "2026-06-18",
+      "Date of WARN Notice": "6/2/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Jennie B. Richmond Nursing Home",
+      "Impacted Site Address": "222 East Main St  Springville, NY, 14141",
+      "Industry": "Health Care and Social Assistance",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-08-31",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "18",
+      "MIN(Number of Affected Workers )": "37"
+    },
+    {
       "Date Posted": "2026-05-07",
       "Date of WARN Notice": "5/5/2026",
       "Workforce Development Area": "Saratoga-Warren-Washington",
@@ -427,7 +427,7 @@
       "Date Layoff/Closure Starts": "2026-08-03",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "20",
+      "AGG(Index)": "21",
       "MIN(Number of Affected Workers )": "37"
     },
     {
@@ -476,21 +476,6 @@
       "MIN(Number of Affected Workers )": "48"
     },
     {
-      "Date Posted": "2026-05-05",
-      "Date of WARN Notice": "4/27/2026",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "International Imaging Materials, Inc. (Armor-IIMAK)",
-      "Impacted Site Address": "310 Commerce Drive  Amherst, NY, 14228",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-07-31",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "27",
-      "MIN(Number of Affected Workers )": "198"
-    },
-    {
       "Date Posted": "2025-11-06",
       "Date of WARN Notice": "9/16/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -504,6 +489,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "27",
       "MIN(Number of Affected Workers )": "3"
+    },
+    {
+      "Date Posted": "2026-05-05",
+      "Date of WARN Notice": "4/27/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "International Imaging Materials, Inc. (Armor-IIMAK)",
+      "Impacted Site Address": "310 Commerce Drive  Amherst, NY, 14228",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-07-31",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "28",
+      "MIN(Number of Affected Workers )": "198"
     },
     {
       "Date Posted": "2025-11-06",
@@ -532,7 +532,7 @@
       "Date Layoff/Closure Starts": "2026-05-30",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "30",
+      "AGG(Index)": "31",
       "MIN(Number of Affected Workers )": "542"
     },
     {
@@ -652,7 +652,7 @@
       "Date Layoff/Closure Starts": "2023-11-16",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "58",
+      "AGG(Index)": "59",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -667,23 +667,8 @@
       "Date Layoff/Closure Starts": "2025-12-03",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "67",
-      "MIN(Number of Affected Workers )": "64"
-    },
-    {
-      "Date Posted": "2025-09-19",
-      "Date of WARN Notice": "9/3/2025",
-      "Workforce Development Area": "Chautauqua",
-      "Impacted Site County": "Chautauqua",
-      "Business Legal Name": "Serta Simmons Bedding, LLC.",
-      "Impacted Site Address": "2375 Parkway Drive  Jamestown, NY, 14701",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-12-02",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "68",
-      "MIN(Number of Affected Workers )": "83"
+      "MIN(Number of Affected Workers )": "64"
     },
     {
       "Date Posted": "2025-11-21",
@@ -699,6 +684,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "69",
       "MIN(Number of Affected Workers )": "179"
+    },
+    {
+      "Date Posted": "2025-09-19",
+      "Date of WARN Notice": "9/3/2025",
+      "Workforce Development Area": "Chautauqua",
+      "Impacted Site County": "Chautauqua",
+      "Business Legal Name": "Serta Simmons Bedding, LLC.",
+      "Impacted Site Address": "2375 Parkway Drive  Jamestown, NY, 14701",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-12-02",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "69",
+      "MIN(Number of Affected Workers )": "83"
     },
     {
       "Date Posted": "2025-07-28",
@@ -757,7 +757,7 @@
       "Date Layoff/Closure Starts": "2025-06-23",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "80",
+      "AGG(Index)": "81",
       "MIN(Number of Affected Workers )": "278"
     },
     {
@@ -772,7 +772,7 @@
       "Date Layoff/Closure Starts": "2025-06-23",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "81",
+      "AGG(Index)": "82",
       "MIN(Number of Affected Workers )": "87"
     },
     {
@@ -787,7 +787,7 @@
       "Date Layoff/Closure Starts": "2025-06-23",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "82",
+      "AGG(Index)": "83",
       "MIN(Number of Affected Workers )": "2"
     },
     {
@@ -832,7 +832,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "92",
+      "AGG(Index)": "93",
       "MIN(Number of Affected Workers )": "16"
     },
     {
@@ -847,23 +847,8 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "93",
-      "MIN(Number of Affected Workers )": "11"
-    },
-    {
-      "Date Posted": "2025-05-23",
-      "Date of WARN Notice": "5/5/2025",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Rensselaer",
-      "Business Legal Name": "Rite Aid",
-      "Impacted Site Address": "83 Vandenburgh Ave  Troy, NY, 12180",
-      "Industry": "Retail Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-06-04",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "94",
-      "MIN(Number of Affected Workers )": "12"
+      "MIN(Number of Affected Workers )": "11"
     },
     {
       "Date Posted": "2025-03-07",
@@ -886,13 +871,28 @@
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
       "Impacted Site County": "Rensselaer",
       "Business Legal Name": "Rite Aid",
-      "Impacted Site Address": "272 Hoosick Street  Troy, NY, 12180",
+      "Impacted Site Address": "83 Vandenburgh Ave  Troy, NY, 12180",
       "Industry": "Retail Trade",
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "95",
+      "MIN(Number of Affected Workers )": "12"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Rensselaer",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "272 Hoosick Street  Troy, NY, 12180",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "96",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -907,7 +907,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "98",
+      "AGG(Index)": "99",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -922,7 +922,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "99",
+      "AGG(Index)": "100",
       "MIN(Number of Affected Workers )": "15"
     },
     {
@@ -937,7 +937,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "100",
+      "AGG(Index)": "101",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -952,7 +952,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "101",
+      "AGG(Index)": "102",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -967,7 +967,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "102",
+      "AGG(Index)": "103",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -982,7 +982,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "103",
+      "AGG(Index)": "104",
       "MIN(Number of Affected Workers )": "16"
     },
     {
@@ -997,7 +997,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "104",
+      "AGG(Index)": "105",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1012,23 +1012,8 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "105",
-      "MIN(Number of Affected Workers )": "14"
-    },
-    {
-      "Date Posted": "2025-05-23",
-      "Date of WARN Notice": "5/5/2025",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Rite Aid",
-      "Impacted Site Address": "480 Evans Road  Williamsville, NY, 14221",
-      "Industry": "Retail Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-06-04",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "106",
-      "MIN(Number of Affected Workers )": "9"
+      "MIN(Number of Affected Workers )": "14"
     },
     {
       "Date Posted": "2025-01-17",
@@ -1051,14 +1036,14 @@
       "Workforce Development Area": "Buffalo and Erie County",
       "Impacted Site County": "Erie",
       "Business Legal Name": "Rite Aid",
-      "Impacted Site Address": "654 Colvin Avenue  Kenmore, NY, 14217",
+      "Impacted Site Address": "480 Evans Road  Williamsville, NY, 14221",
       "Industry": "Retail Trade",
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "107",
-      "MIN(Number of Affected Workers )": "13"
+      "MIN(Number of Affected Workers )": "9"
     },
     {
       "Date Posted": "2025-01-17",
@@ -1081,13 +1066,28 @@
       "Workforce Development Area": "Buffalo and Erie County",
       "Impacted Site County": "Erie",
       "Business Legal Name": "Rite Aid",
-      "Impacted Site Address": "798 Harlem Road  West Seneca, NY, 14224",
+      "Impacted Site Address": "654 Colvin Avenue  Kenmore, NY, 14217",
       "Industry": "Retail Trade",
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "108",
+      "MIN(Number of Affected Workers )": "13"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "798 Harlem Road  West Seneca, NY, 14224",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "109",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -1102,7 +1102,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "109",
+      "AGG(Index)": "110",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -1117,23 +1117,8 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "110",
-      "MIN(Number of Affected Workers )": "11"
-    },
-    {
-      "Date Posted": "2025-05-23",
-      "Date of WARN Notice": "5/5/2025",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Rite Aid",
-      "Impacted Site Address": "1224 East Lovejoy Street  Buffalo, NY, 14206",
-      "Industry": "Retail Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-06-04",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "111",
-      "MIN(Number of Affected Workers )": "7"
+      "MIN(Number of Affected Workers )": "11"
     },
     {
       "Date Posted": "2025-01-17",
@@ -1156,13 +1141,28 @@
       "Workforce Development Area": "Buffalo and Erie County",
       "Impacted Site County": "Erie",
       "Business Legal Name": "Rite Aid",
-      "Impacted Site Address": "1410 Delaware Avenue  Buffalo, NY, 14209",
+      "Impacted Site Address": "1224 East Lovejoy Street  Buffalo, NY, 14206",
       "Industry": "Retail Trade",
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "112",
+      "MIN(Number of Affected Workers )": "7"
+    },
+    {
+      "Date Posted": "2025-05-23",
+      "Date of WARN Notice": "5/5/2025",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Rite Aid",
+      "Impacted Site Address": "1410 Delaware Avenue  Buffalo, NY, 14209",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-04",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "113",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1177,7 +1177,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "113",
+      "AGG(Index)": "114",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -1192,7 +1192,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "114",
+      "AGG(Index)": "115",
       "MIN(Number of Affected Workers )": "14"
     },
     {
@@ -1207,7 +1207,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "115",
+      "AGG(Index)": "116",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1222,7 +1222,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "116",
+      "AGG(Index)": "117",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1237,7 +1237,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "117",
+      "AGG(Index)": "118",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1252,7 +1252,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "118",
+      "AGG(Index)": "119",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1267,7 +1267,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "119",
+      "AGG(Index)": "120",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1282,7 +1282,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "120",
+      "AGG(Index)": "121",
       "MIN(Number of Affected Workers )": "15"
     },
     {
@@ -1297,7 +1297,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "121",
+      "AGG(Index)": "122",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -1312,7 +1312,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "122",
+      "AGG(Index)": "123",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1327,7 +1327,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "123",
+      "AGG(Index)": "124",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1342,7 +1342,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "124",
+      "AGG(Index)": "125",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1357,7 +1357,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "125",
+      "AGG(Index)": "126",
       "MIN(Number of Affected Workers )": "21"
     },
     {
@@ -1372,7 +1372,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "126",
+      "AGG(Index)": "127",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1387,7 +1387,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "127",
+      "AGG(Index)": "128",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1402,7 +1402,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "128",
+      "AGG(Index)": "129",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1417,7 +1417,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "129",
+      "AGG(Index)": "130",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1432,7 +1432,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "130",
+      "AGG(Index)": "131",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -1447,7 +1447,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "131",
+      "AGG(Index)": "132",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -1462,7 +1462,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "132",
+      "AGG(Index)": "133",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -1477,7 +1477,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "133",
+      "AGG(Index)": "134",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1492,7 +1492,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "134",
+      "AGG(Index)": "135",
       "MIN(Number of Affected Workers )": "6"
     },
     {
@@ -1507,7 +1507,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "135",
+      "AGG(Index)": "136",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1522,7 +1522,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "136",
+      "AGG(Index)": "137",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1537,7 +1537,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "137",
+      "AGG(Index)": "138",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1552,7 +1552,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "138",
+      "AGG(Index)": "139",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -1567,7 +1567,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "139",
+      "AGG(Index)": "140",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1582,7 +1582,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "140",
+      "AGG(Index)": "141",
       "MIN(Number of Affected Workers )": "16"
     },
     {
@@ -1597,7 +1597,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "141",
+      "AGG(Index)": "142",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1612,7 +1612,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "142",
+      "AGG(Index)": "143",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1627,7 +1627,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "143",
+      "AGG(Index)": "144",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1642,7 +1642,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "144",
+      "AGG(Index)": "145",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1657,7 +1657,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "145",
+      "AGG(Index)": "146",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1672,7 +1672,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "146",
+      "AGG(Index)": "147",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1687,7 +1687,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "147",
+      "AGG(Index)": "148",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1702,7 +1702,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "149",
+      "AGG(Index)": "150",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1717,7 +1717,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "150",
+      "AGG(Index)": "151",
       "MIN(Number of Affected Workers )": "17"
     },
     {
@@ -1732,7 +1732,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "151",
+      "AGG(Index)": "152",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1747,7 +1747,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "152",
+      "AGG(Index)": "153",
       "MIN(Number of Affected Workers )": "9"
     },
     {
@@ -1762,7 +1762,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "153",
+      "AGG(Index)": "154",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1777,7 +1777,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "154",
+      "AGG(Index)": "155",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1792,7 +1792,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "168",
+      "AGG(Index)": "169",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -1807,7 +1807,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "171",
+      "AGG(Index)": "172",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1822,7 +1822,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "172",
+      "AGG(Index)": "173",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1837,7 +1837,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "173",
+      "AGG(Index)": "174",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1852,7 +1852,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "218",
+      "AGG(Index)": "219",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -1867,7 +1867,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "219",
+      "AGG(Index)": "220",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -1882,7 +1882,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "220",
+      "AGG(Index)": "221",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1897,7 +1897,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "221",
+      "AGG(Index)": "222",
       "MIN(Number of Affected Workers )": "13"
     },
     {
@@ -1912,7 +1912,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "222",
+      "AGG(Index)": "223",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1927,7 +1927,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "223",
+      "AGG(Index)": "224",
       "MIN(Number of Affected Workers )": "16"
     },
     {
@@ -1942,7 +1942,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "224",
+      "AGG(Index)": "225",
       "MIN(Number of Affected Workers )": "7"
     },
     {
@@ -1957,7 +1957,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "225",
+      "AGG(Index)": "226",
       "MIN(Number of Affected Workers )": "15"
     },
     {
@@ -1972,7 +1972,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "226",
+      "AGG(Index)": "227",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -1987,7 +1987,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "227",
+      "AGG(Index)": "228",
       "MIN(Number of Affected Workers )": "12"
     },
     {
@@ -2002,7 +2002,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "228",
+      "AGG(Index)": "229",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -2017,7 +2017,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "229",
+      "AGG(Index)": "230",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -2032,7 +2032,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "248",
+      "AGG(Index)": "249",
       "MIN(Number of Affected Workers )": "8"
     },
     {
@@ -2047,7 +2047,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "249",
+      "AGG(Index)": "250",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -2062,7 +2062,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "250",
+      "AGG(Index)": "251",
       "MIN(Number of Affected Workers )": "10"
     },
     {
@@ -2077,7 +2077,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "251",
+      "AGG(Index)": "252",
       "MIN(Number of Affected Workers )": "11"
     },
     {
@@ -2092,7 +2092,7 @@
       "Date Layoff/Closure Starts": "2025-06-04",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "281",
+      "AGG(Index)": "282",
       "MIN(Number of Affected Workers )": "129"
     },
     {
@@ -2107,7 +2107,7 @@
       "Date Layoff/Closure Starts": "2025-05-05",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "287",
+      "AGG(Index)": "288",
       "MIN(Number of Affected Workers )": "93"
     }
   ],
@@ -2129,5 +2129,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 138 WARN notices for target counties (out of 924 statewide).\n  0 posted in the last 7 days (since 2026-10-06).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 138 WARN notices for target counties (out of 925 statewide).\n  0 posted in the last 7 days (since 2026-10-07).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
