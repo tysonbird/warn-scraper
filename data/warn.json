@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-10-16T16:26:46.291Z",
+  "scrapedAt": "2026-10-17T15:21:10.610Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 924,
   "filteredRows": 137,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-10-09",
-  "recentCount": 0,
+  "recentCutoff": "2026-10-10",
+  "recentCount": 1,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -40,6 +40,21 @@
     "MIN(Number of Affected Workers )"
   ],
   "records": [
+    {
+      "Date Posted": "2026-10-16",
+      "Date of WARN Notice": "9/9/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "FreedomRoads, LLC.; CWI, LLC.; Meyer's RV Centers, LLC.",
+      "Impacted Site Address": "5533 Camp Road  Hamburg, NY, 14075",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-12-08",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "1",
+      "MIN(Number of Affected Workers )": "28"
+    },
     {
       "Date Posted": "2026-08-27",
       "Date of WARN Notice": "7/9/2026",
@@ -191,21 +206,6 @@
       "MIN(Number of Affected Workers )": "59"
     },
     {
-      "Date Posted": "2026-09-29",
-      "Date of WARN Notice": "8/11/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "ThreeC Logistics, LLC.",
-      "Impacted Site Address": "1 Mustang Dr.  Cohoes, NY, 12047",
-      "Industry": "Transportation and Warehousing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-11-11",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "6",
-      "MIN(Number of Affected Workers )": "78"
-    },
-    {
       "Date Posted": "2025-09-08",
       "Date of WARN Notice": "8/25/2025",
       "Workforce Development Area": "Chautauqua",
@@ -219,6 +219,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "6",
       "MIN(Number of Affected Workers )": "93"
+    },
+    {
+      "Date Posted": "2026-09-29",
+      "Date of WARN Notice": "8/11/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "ThreeC Logistics, LLC.",
+      "Impacted Site Address": "1 Mustang Dr.  Cohoes, NY, 12047",
+      "Industry": "Transportation and Warehousing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-11-11",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "7",
+      "MIN(Number of Affected Workers )": "78"
     },
     {
       "Date Posted": "2025-02-27",
@@ -236,21 +251,6 @@
       "MIN(Number of Affected Workers )": "28"
     },
     {
-      "Date Posted": "2026-09-08",
-      "Date of WARN Notice": "7/30/2026",
-      "Workforce Development Area": "Columbia-Green Workforce NY",
-      "Impacted Site County": "Columbia",
-      "Business Legal Name": "Hudson Valley Fish Farm, Inc.",
-      "Impacted Site Address": "4269 Route 9  Hudson, NY, 12534",
-      "Industry": "Agriculture, Forestry, Fishing and Hunting",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-10-28",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "9",
-      "MIN(Number of Affected Workers )": "47"
-    },
-    {
       "Date Posted": "2025-10-22",
       "Date of WARN Notice": "5/8/2025",
       "Workforce Development Area": "Niagara",
@@ -264,6 +264,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "9",
       "MIN(Number of Affected Workers )": "60"
+    },
+    {
+      "Date Posted": "2026-09-08",
+      "Date of WARN Notice": "7/30/2026",
+      "Workforce Development Area": "Columbia-Green Workforce NY",
+      "Impacted Site County": "Columbia",
+      "Business Legal Name": "Hudson Valley Fish Farm, Inc.",
+      "Impacted Site Address": "4269 Route 9  Hudson, NY, 12534",
+      "Industry": "Agriculture, Forestry, Fishing and Hunting",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-10-28",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "10",
+      "MIN(Number of Affected Workers )": "47"
     },
     {
       "Date Posted": "2026-05-26",
@@ -311,21 +326,6 @@
       "MIN(Number of Affected Workers )": "15"
     },
     {
-      "Date Posted": "2026-07-22",
-      "Date of WARN Notice": "2/24/2026",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "VanDeMark Chemical Inc.",
-      "Impacted Site Address": "1 North Transit Road  Lockport, NY, 14094",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-05-25",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "16",
-      "MIN(Number of Affected Workers )": "0"
-    },
-    {
       "Date Posted": "2026-07-17",
       "Date of WARN Notice": "3/27/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -371,6 +371,21 @@
       "MIN(Number of Affected Workers )": "112"
     },
     {
+      "Date Posted": "2026-07-22",
+      "Date of WARN Notice": "2/24/2026",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "VanDeMark Chemical Inc.",
+      "Impacted Site Address": "1 North Transit Road  Lockport, NY, 14094",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-05-25",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "17",
+      "MIN(Number of Affected Workers )": "0"
+    },
+    {
       "Date Posted": "2026-07-01",
       "Date of WARN Notice": "5/27/2026",
       "Workforce Development Area": "Chautauqua",
@@ -382,7 +397,7 @@
       "Date Layoff/Closure Starts": "2026-09-01",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "17",
+      "AGG(Index)": "18",
       "MIN(Number of Affected Workers )": "79"
     },
     {
@@ -397,22 +412,7 @@
       "Date Layoff/Closure Starts": "2026-08-31",
       "Reason for Layoff/Closure   ": "Economic",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "18",
-      "MIN(Number of Affected Workers )": "37"
-    },
-    {
-      "Date Posted": "2026-05-07",
-      "Date of WARN Notice": "5/5/2026",
-      "Workforce Development Area": "Saratoga-Warren-Washington",
-      "Impacted Site County": "Warren",
-      "Business Legal Name": "Etain, LLC.",
-      "Impacted Site Address": "6030-6032 US-9  Chestertown, NY, 12817",
-      "Industry": "Other Services (except Public Administration)",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-08-03",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "21",
+      "AGG(Index)": "19",
       "MIN(Number of Affected Workers )": "37"
     },
     {
@@ -2096,16 +2096,32 @@
       "MIN(Number of Affected Workers )": "93"
     }
   ],
-  "recentRecords": [],
+  "recentRecords": [
+    {
+      "Date Posted": "2026-10-16",
+      "Date of WARN Notice": "9/9/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "FreedomRoads, LLC.; CWI, LLC.; Meyer's RV Centers, LLC.",
+      "Impacted Site Address": "5533 Camp Road  Hamburg, NY, 14075",
+      "Industry": "Retail Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-12-08",
+      "Reason for Layoff/Closure   ": "Economic",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "1",
+      "MIN(Number of Affected Workers )": "28"
+    }
+  ],
   "countyCounts": {
-    "Erie": 67,
+    "Erie": 68,
     "Albany": 14,
     "Chautauqua": 12,
     "Schenectady": 2,
-    "Columbia": 1,
     "Niagara": 17,
+    "Columbia": 1,
     "Allegany": 2,
-    "Warren": 5,
+    "Warren": 4,
     "Orleans": 1,
     "Greene": 1,
     "Saratoga": 4,
@@ -2114,5 +2130,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 137 WARN notices for target counties (out of 924 statewide).\n  0 posted in the last 7 days (since 2026-10-09).\n  - Erie: 67 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 137 WARN notices for target counties (out of 924 statewide).\n  1 posted in the last 7 days (since 2026-10-10).\n  - Erie: 68 notices\n  - Niagara: 17 notices\n  - Albany: 14 notices\n  - Chautauqua: 12 notices\n  - Cattaraugus: 5 notices\n  - Warren: 4 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
