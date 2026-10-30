@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-10-29T20:35:31.124Z",
+  "scrapedAt": "2026-10-30T17:54:34.091Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 921,
+  "totalRows": 922,
   "filteredRows": 140,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-10-22",
+  "recentCutoff": "2026-10-23",
   "recentCount": 2,
   "targetCounties": [
     "Erie",
@@ -54,21 +54,6 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "1",
       "MIN(Number of Affected Workers )": "51"
-    },
-    {
-      "Date Posted": "2026-10-19",
-      "Date of WARN Notice": "6/12/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Resideo, LLC. D/B/A ADI",
-      "Impacted Site Address": "1217 West Yard Road Unit A Feura Bush, NY, 12067",
-      "Industry": "Wholesale Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-09-15",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "1",
-      "MIN(Number of Affected Workers )": "55"
     },
     {
       "Date Posted": "2026-08-27",
@@ -129,6 +114,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "2",
       "MIN(Number of Affected Workers )": "0"
+    },
+    {
+      "Date Posted": "2026-10-19",
+      "Date of WARN Notice": "6/12/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Resideo, LLC. D/B/A ADI",
+      "Impacted Site Address": "1217 West Yard Road Unit A Feura Bush, NY, 12067",
+      "Industry": "Wholesale Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-09-15",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "2",
+      "MIN(Number of Affected Workers )": "55"
     },
     {
       "Date Posted": "2026-06-11",
@@ -296,21 +296,6 @@
       "MIN(Number of Affected Workers )": "45"
     },
     {
-      "Date Posted": "2025-10-22",
-      "Date of WARN Notice": "5/8/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "Nuttall Gear, LLC.",
-      "Impacted Site Address": "2221 Niagara Falls Blvd  Niagara Falls, NY, 14304",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-09-05",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "9",
-      "MIN(Number of Affected Workers )": "60"
-    },
-    {
       "Date Posted": "2026-09-29",
       "Date of WARN Notice": "8/11/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -324,6 +309,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "10",
       "MIN(Number of Affected Workers )": "78"
+    },
+    {
+      "Date Posted": "2025-10-22",
+      "Date of WARN Notice": "5/8/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "Nuttall Gear, LLC.",
+      "Impacted Site Address": "2221 Niagara Falls Blvd  Niagara Falls, NY, 14304",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-09-05",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "10",
+      "MIN(Number of Affected Workers )": "60"
     },
     {
       "Date Posted": "2026-09-08",
@@ -371,21 +371,6 @@
       "MIN(Number of Affected Workers )": "78"
     },
     {
-      "Date Posted": "2025-04-08",
-      "Date of WARN Notice": "3/19/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "The Katz Group Americas Inc.",
-      "Impacted Site Address": "3685 Lockport Rd.  Sanborn, NY, 14132",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-06-27",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "15",
-      "MIN(Number of Affected Workers )": "15"
-    },
-    {
       "Date Posted": "2026-07-17",
       "Date of WARN Notice": "3/27/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -401,6 +386,21 @@
       "MIN(Number of Affected Workers )": "36"
     },
     {
+      "Date Posted": "2025-04-08",
+      "Date of WARN Notice": "3/19/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "The Katz Group Americas Inc.",
+      "Impacted Site Address": "3685 Lockport Rd.  Sanborn, NY, 14132",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-27",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "16",
+      "MIN(Number of Affected Workers )": "15"
+    },
+    {
       "Date Posted": "2025-03-07",
       "Date of WARN Notice": "2/27/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -412,7 +412,7 @@
       "Date Layoff/Closure Starts": "2025-05-30",
       "Reason for Layoff/Closure   ": "Relocation of Business",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "16",
+      "AGG(Index)": "17",
       "MIN(Number of Affected Workers )": "112"
     },
     {
@@ -2175,8 +2175,8 @@
   ],
   "countyCounts": {
     "Niagara": 18,
-    "Albany": 15,
     "Erie": 68,
+    "Albany": 15,
     "Warren": 5,
     "Chautauqua": 12,
     "Schenectady": 2,
@@ -2190,5 +2190,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 140 WARN notices for target counties (out of 921 statewide).\n  2 posted in the last 7 days (since 2026-10-22).\n  - Erie: 68 notices\n  - Niagara: 18 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 140 WARN notices for target counties (out of 922 statewide).\n  2 posted in the last 7 days (since 2026-10-23).\n  - Erie: 68 notices\n  - Niagara: 18 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
