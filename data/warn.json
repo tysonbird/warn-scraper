@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-11-10T19:33:05.249Z",
+  "scrapedAt": "2026-11-11T19:27:26.983Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 934,
-  "filteredRows": 140,
+  "totalRows": 937,
+  "filteredRows": 141,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-11-03",
-  "recentCount": 0,
+  "recentCutoff": "2026-11-04",
+  "recentCount": 1,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -40,6 +40,21 @@
     "MIN(Number of Affected Workers )"
   ],
   "records": [
+    {
+      "Date Posted": "2026-11-10",
+      "Date of WARN Notice": "9/24/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Health Research Inc.",
+      "Impacted Site Address": "Elm & Carlton Sts  Buffalo, NY, 14263",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-12-24",
+      "Reason for Layoff/Closure   ": "Contract Termination",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "1",
+      "MIN(Number of Affected Workers )": "760"
+    },
     {
       "Date Posted": "2026-08-27",
       "Date of WARN Notice": "7/9/2026",
@@ -86,21 +101,6 @@
       "MIN(Number of Affected Workers )": "128"
     },
     {
-      "Date Posted": "2026-10-19",
-      "Date of WARN Notice": "6/12/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Resideo, LLC. D/B/A ADI",
-      "Impacted Site Address": "1217 West Yard Road Unit A Feura Bush, NY, 12067",
-      "Industry": "Wholesale Trade",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-09-15",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "2",
-      "MIN(Number of Affected Workers )": "55"
-    },
-    {
       "Date Posted": "2026-06-11",
       "Date of WARN Notice": "4/30/2026",
       "Workforce Development Area": "Chautauqua",
@@ -129,6 +129,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "2",
       "MIN(Number of Affected Workers )": "133"
+    },
+    {
+      "Date Posted": "2026-10-19",
+      "Date of WARN Notice": "6/12/2026",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "Resideo, LLC. D/B/A ADI",
+      "Impacted Site Address": "1217 West Yard Road Unit A Feura Bush, NY, 12067",
+      "Industry": "Wholesale Trade",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-09-15",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "3",
+      "MIN(Number of Affected Workers )": "55"
     },
     {
       "Date Posted": "2026-04-06",
@@ -266,21 +281,6 @@
       "MIN(Number of Affected Workers )": "0"
     },
     {
-      "Date Posted": "2025-10-22",
-      "Date of WARN Notice": "5/8/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "Nuttall Gear, LLC.",
-      "Impacted Site Address": "2221 Niagara Falls Blvd  Niagara Falls, NY, 14304",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-09-05",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "10",
-      "MIN(Number of Affected Workers )": "60"
-    },
-    {
       "Date Posted": "2026-05-26",
       "Date of WARN Notice": "5/8/2026",
       "Workforce Development Area": "Cattaraugus-Allegany",
@@ -294,6 +294,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "11",
       "MIN(Number of Affected Workers )": "45"
+    },
+    {
+      "Date Posted": "2025-10-22",
+      "Date of WARN Notice": "5/8/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "Nuttall Gear, LLC.",
+      "Impacted Site Address": "2221 Niagara Falls Blvd  Niagara Falls, NY, 14304",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-09-05",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "11",
+      "MIN(Number of Affected Workers )": "60"
     },
     {
       "Date Posted": "2026-10-16",
@@ -341,21 +356,6 @@
       "MIN(Number of Affected Workers )": "78"
     },
     {
-      "Date Posted": "2025-04-08",
-      "Date of WARN Notice": "3/19/2025",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "The Katz Group Americas Inc.",
-      "Impacted Site Address": "3685 Lockport Rd.  Sanborn, NY, 14132",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-06-27",
-      "Reason for Layoff/Closure   ": "Relocation of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "16",
-      "MIN(Number of Affected Workers )": "15"
-    },
-    {
       "Date Posted": "2026-07-17",
       "Date of WARN Notice": "3/27/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -386,6 +386,21 @@
       "MIN(Number of Affected Workers )": "78"
     },
     {
+      "Date Posted": "2025-04-08",
+      "Date of WARN Notice": "3/19/2025",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "The Katz Group Americas Inc.",
+      "Impacted Site Address": "3685 Lockport Rd.  Sanborn, NY, 14132",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-06-27",
+      "Reason for Layoff/Closure   ": "Relocation of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "17",
+      "MIN(Number of Affected Workers )": "15"
+    },
+    {
       "Date Posted": "2025-03-07",
       "Date of WARN Notice": "2/27/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -397,7 +412,7 @@
       "Date Layoff/Closure Starts": "2025-05-30",
       "Reason for Layoff/Closure   ": "Relocation of Business",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "17",
+      "AGG(Index)": "18",
       "MIN(Number of Affected Workers )": "112"
     },
     {
@@ -491,21 +506,6 @@
       "MIN(Number of Affected Workers )": "79"
     },
     {
-      "Date Posted": "2025-11-06",
-      "Date of WARN Notice": "9/16/2025",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Pinnacle City Living, LLC.",
-      "Impacted Site Address": "300 Niagara Street  Buffalo, NY, 14201",
-      "Industry": "Real Estate and Rental and Leasing",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2025-12-16",
-      "Reason for Layoff/Closure   ": "Sale of Business",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "27",
-      "MIN(Number of Affected Workers )": "3"
-    },
-    {
       "Date Posted": "2026-06-18",
       "Date of WARN Notice": "6/2/2026",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -526,13 +526,28 @@
       "Workforce Development Area": "Buffalo and Erie County",
       "Impacted Site County": "Erie",
       "Business Legal Name": "Pinnacle City Living, LLC.",
-      "Impacted Site Address": "440 Clinton Street  Buffalo, NY, 14204",
+      "Impacted Site Address": "300 Niagara Street  Buffalo, NY, 14201",
       "Industry": "Real Estate and Rental and Leasing",
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2025-12-16",
       "Reason for Layoff/Closure   ": "Sale of Business",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "28",
+      "MIN(Number of Affected Workers )": "3"
+    },
+    {
+      "Date Posted": "2025-11-06",
+      "Date of WARN Notice": "9/16/2025",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Pinnacle City Living, LLC.",
+      "Impacted Site Address": "440 Clinton Street  Buffalo, NY, 14204",
+      "Industry": "Real Estate and Rental and Leasing",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2025-12-16",
+      "Reason for Layoff/Closure   ": "Sale of Business",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "29",
       "MIN(Number of Affected Workers )": "5"
     },
     {
@@ -671,21 +686,6 @@
       "MIN(Number of Affected Workers )": "1,433"
     },
     {
-      "Date Posted": "2025-11-21",
-      "Date of WARN Notice": "10/7/2025",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",
-      "Impacted Site Address": "1400 Washington Ave  Albany, NY, 12222",
-      "Industry": "Other Services (except Public Administration)",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-01-05",
-      "Reason for Layoff/Closure   ": "Contract Termination",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "69",
-      "MIN(Number of Affected Workers )": "179"
-    },
-    {
       "Date Posted": "2025-10-10",
       "Date of WARN Notice": "8/18/2023",
       "Workforce Development Area": "Chautauqua",
@@ -699,6 +699,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "69",
       "MIN(Number of Affected Workers )": "2"
+    },
+    {
+      "Date Posted": "2025-11-21",
+      "Date of WARN Notice": "10/7/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Albany",
+      "Business Legal Name": "SDH Education West, LLC d/b/a Sodexo - Univ at Albany Campus",
+      "Impacted Site Address": "1400 Washington Ave  Albany, NY, 12222",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-01-05",
+      "Reason for Layoff/Closure   ": "Contract Termination",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "70",
+      "MIN(Number of Affected Workers )": "179"
     },
     {
       "Date Posted": "2025-07-28",
@@ -2141,9 +2156,25 @@
       "MIN(Number of Affected Workers )": "93"
     }
   ],
-  "recentRecords": [],
+  "recentRecords": [
+    {
+      "Date Posted": "2026-11-10",
+      "Date of WARN Notice": "9/24/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Health Research Inc.",
+      "Impacted Site Address": "Elm & Carlton Sts  Buffalo, NY, 14263",
+      "Industry": "Other Services (except Public Administration)",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-12-24",
+      "Reason for Layoff/Closure   ": "Contract Termination",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "1",
+      "MIN(Number of Affected Workers )": "760"
+    }
+  ],
   "countyCounts": {
-    "Erie": 68,
+    "Erie": 69,
     "Albany": 15,
     "Chautauqua": 12,
     "Schenectady": 2,
@@ -2159,5 +2190,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 140 WARN notices for target counties (out of 934 statewide).\n  0 posted in the last 7 days (since 2026-11-03).\n  - Erie: 68 notices\n  - Niagara: 18 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 141 WARN notices for target counties (out of 937 statewide).\n  1 posted in the last 7 days (since 2026-11-04).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 15 notices\n  - Chautauqua: 12 notices\n  - Warren: 5 notices\n  - Cattaraugus: 5 notices\n  - Saratoga: 4 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Rensselaer: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
