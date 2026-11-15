@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-11-14T17:51:39.421Z",
+  "scrapedAt": "2026-11-15T18:42:03.304Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 949,
   "filteredRows": 145,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-11-07",
+  "recentCutoff": "2026-11-08",
   "recentCount": 5,
   "targetCounties": [
     "Erie",
@@ -2310,5 +2310,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 145 WARN notices for target counties (out of 949 statewide).\n  5 posted in the last 7 days (since 2026-11-07).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 16 notices\n  - Chautauqua: 12 notices\n  - Warren: 6 notices\n  - Saratoga: 5 notices\n  - Cattaraugus: 5 notices\n  - Rensselaer: 3 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 145 WARN notices for target counties (out of 949 statewide).\n  5 posted in the last 7 days (since 2026-11-08).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 16 notices\n  - Chautauqua: 12 notices\n  - Warren: 6 notices\n  - Saratoga: 5 notices\n  - Cattaraugus: 5 notices\n  - Rensselaer: 3 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
