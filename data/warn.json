@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-11-17T20:42:56.495Z",
+  "scrapedAt": "2026-11-18T20:17:35.321Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 950,
+  "totalRows": 951,
   "filteredRows": 145,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-11-10",
-  "recentCount": 5,
+  "recentCutoff": "2026-11-11",
+  "recentCount": 4,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -62,7 +62,7 @@
       "Impacted Site County": "Erie",
       "Business Legal Name": "Health Research Inc.",
       "Impacted Site Address": "Elm & Carlton Sts  Buffalo, NY, 14263",
-      "Industry": "Other Services (except Public Administration)",
+      "Industry": "Professional, Scientific, and Technical Services",
       "Layoff or Closure?": "Closure",
       "Date Layoff/Closure Starts": "2026-12-24",
       "Reason for Layoff/Closure   ": "Contract Termination",
@@ -322,7 +322,7 @@
       "Date Layoff/Closure Starts": "2026-05-31",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "11",
+      "AGG(Index)": "12",
       "MIN(Number of Affected Workers )": "45"
     },
     {
@@ -352,7 +352,7 @@
       "Date Layoff/Closure Starts": "2026-07-12",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "15",
+      "AGG(Index)": "16",
       "MIN(Number of Affected Workers )": "78"
     },
     {
@@ -382,7 +382,7 @@
       "Date Layoff/Closure Starts": "2026-05-18",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "17",
+      "AGG(Index)": "18",
       "MIN(Number of Affected Workers )": "78"
     },
     {
@@ -457,23 +457,8 @@
       "Date Layoff/Closure Starts": "2026-02-27",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "22",
-      "MIN(Number of Affected Workers )": "1"
-    },
-    {
-      "Date Posted": "2026-02-09",
-      "Date of WARN Notice": "11/13/2025",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Warren",
-      "Business Legal Name": "AngioDynamics, Inc.",
-      "Impacted Site Address": "24 Native Drive  Queensbury, NY, 12804",
-      "Industry": "Manufacturing",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2026-02-27",
-      "Reason for Layoff/Closure   ": "Contract Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "23",
-      "MIN(Number of Affected Workers )": "2"
+      "MIN(Number of Affected Workers )": "1"
     },
     {
       "Date Posted": "2026-10-16",
@@ -496,13 +481,28 @@
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
       "Impacted Site County": "Warren",
       "Business Legal Name": "AngioDynamics, Inc.",
-      "Impacted Site Address": "603 Queensbury Avenue  Queensbury, NY, 12804",
+      "Impacted Site Address": "24 Native Drive  Queensbury, NY, 12804",
       "Industry": "Manufacturing",
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2026-02-27",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "24",
+      "MIN(Number of Affected Workers )": "2"
+    },
+    {
+      "Date Posted": "2026-02-09",
+      "Date of WARN Notice": "11/13/2025",
+      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
+      "Impacted Site County": "Warren",
+      "Business Legal Name": "AngioDynamics, Inc.",
+      "Impacted Site Address": "603 Queensbury Avenue  Queensbury, NY, 12804",
+      "Industry": "Manufacturing",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2026-02-27",
+      "Reason for Layoff/Closure   ": "Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "25",
       "MIN(Number of Affected Workers )": "48"
     },
     {
@@ -877,7 +877,7 @@
       "Date Layoff/Closure Starts": "2025-11-26",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "87",
+      "AGG(Index)": "88",
       "MIN(Number of Affected Workers )": "125"
     },
     {
@@ -971,21 +971,6 @@
       "MIN(Number of Affected Workers )": "11"
     },
     {
-      "Date Posted": "2025-01-17",
-      "Date of WARN Notice": "12/31/2024",
-      "Workforce Development Area": "Cattaraugus-Allegany",
-      "Impacted Site County": "Cattaraugus",
-      "Business Legal Name": "Venture Forthe, Inc.",
-      "Impacted Site Address": "123 N. Union St.  Olean, NY, 14760",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-03-31",
-      "Reason for Layoff/Closure   ": "Contract Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "107",
-      "MIN(Number of Affected Workers )": "46"
-    },
-    {
       "Date Posted": "2025-05-23",
       "Date of WARN Notice": "5/5/2025",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -1003,17 +988,17 @@
     {
       "Date Posted": "2025-01-17",
       "Date of WARN Notice": "12/31/2024",
-      "Workforce Development Area": "Chautauqua",
-      "Impacted Site County": "Chautauqua",
+      "Workforce Development Area": "Cattaraugus-Allegany",
+      "Impacted Site County": "Cattaraugus",
       "Business Legal Name": "Venture Forthe, Inc.",
-      "Impacted Site Address": "560 W 3rd St. Suite 5 Jamestown, NY, 14701",
+      "Impacted Site Address": "123 N. Union St.  Olean, NY, 14760",
       "Industry": "Health Care and Social Assistance",
       "Layoff or Closure?": "Layoff",
       "Date Layoff/Closure Starts": "2025-03-31",
       "Reason for Layoff/Closure   ": "Contract Loss",
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "108",
-      "MIN(Number of Affected Workers )": "26"
+      "MIN(Number of Affected Workers )": "46"
     },
     {
       "Date Posted": "2025-05-23",
@@ -1031,6 +1016,21 @@
       "MIN(Number of Affected Workers )": "9"
     },
     {
+      "Date Posted": "2025-01-17",
+      "Date of WARN Notice": "12/31/2024",
+      "Workforce Development Area": "Chautauqua",
+      "Impacted Site County": "Chautauqua",
+      "Business Legal Name": "Venture Forthe, Inc.",
+      "Impacted Site Address": "560 W 3rd St. Suite 5 Jamestown, NY, 14701",
+      "Industry": "Health Care and Social Assistance",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-03-31",
+      "Reason for Layoff/Closure   ": "Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "109",
+      "MIN(Number of Affected Workers )": "26"
+    },
+    {
       "Date Posted": "2025-05-23",
       "Date of WARN Notice": "5/5/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -1046,21 +1046,6 @@
       "MIN(Number of Affected Workers )": "9"
     },
     {
-      "Date Posted": "2025-01-17",
-      "Date of WARN Notice": "12/31/2024",
-      "Workforce Development Area": "Niagara",
-      "Impacted Site County": "Niagara",
-      "Business Legal Name": "Venture Forthe, Inc.",
-      "Impacted Site Address": "3900 Packard Rd.  Niagara Falls, NY, 14303",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Layoff",
-      "Date Layoff/Closure Starts": "2025-03-31",
-      "Reason for Layoff/Closure   ": "Contract Loss",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "112",
-      "MIN(Number of Affected Workers )": "133"
-    },
-    {
       "Date Posted": "2025-05-23",
       "Date of WARN Notice": "5/5/2025",
       "Workforce Development Area": "Buffalo and Erie County",
@@ -1074,6 +1059,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "113",
       "MIN(Number of Affected Workers )": "15"
+    },
+    {
+      "Date Posted": "2025-01-17",
+      "Date of WARN Notice": "12/31/2024",
+      "Workforce Development Area": "Niagara",
+      "Impacted Site County": "Niagara",
+      "Business Legal Name": "Venture Forthe, Inc.",
+      "Impacted Site Address": "3900 Packard Rd.  Niagara Falls, NY, 14303",
+      "Industry": "Health Care and Social Assistance",
+      "Layoff or Closure?": "Layoff",
+      "Date Layoff/Closure Starts": "2025-03-31",
+      "Reason for Layoff/Closure   ": "Contract Loss",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "113",
+      "MIN(Number of Affected Workers )": "133"
     },
     {
       "Date Posted": "2025-05-23",
@@ -2233,21 +2233,6 @@
       "MIN(Number of Affected Workers )": "0"
     },
     {
-      "Date Posted": "2026-11-10",
-      "Date of WARN Notice": "9/24/2026",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Health Research Inc.",
-      "Impacted Site Address": "Elm & Carlton Sts  Buffalo, NY, 14263",
-      "Industry": "Other Services (except Public Administration)",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-12-24",
-      "Reason for Layoff/Closure   ": "Contract Termination",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "1",
-      "MIN(Number of Affected Workers )": "760"
-    },
-    {
       "Date Posted": "2026-11-12",
       "Date of WARN Notice": "10/1/2026",
       "Workforce Development Area": "Albany-Rensselaer-Schenectady",
@@ -2310,5 +2295,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 145 WARN notices for target counties (out of 950 statewide).\n  5 posted in the last 7 days (since 2026-11-10).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 16 notices\n  - Chautauqua: 12 notices\n  - Warren: 6 notices\n  - Saratoga: 5 notices\n  - Cattaraugus: 5 notices\n  - Rensselaer: 3 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 145 WARN notices for target counties (out of 951 statewide).\n  4 posted in the last 7 days (since 2026-11-11).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 16 notices\n  - Chautauqua: 12 notices\n  - Warren: 6 notices\n  - Saratoga: 5 notices\n  - Cattaraugus: 5 notices\n  - Rensselaer: 3 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
