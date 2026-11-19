@@ -1,10 +1,10 @@
 {
-  "scrapedAt": "2026-11-18T20:17:35.321Z",
+  "scrapedAt": "2026-11-19T20:21:17.748Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
-  "totalRows": 951,
+  "totalRows": 952,
   "filteredRows": 145,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-11-11",
+  "recentCutoff": "2026-11-12",
   "recentCount": 4,
   "targetCounties": [
     "Erie",
@@ -54,21 +54,6 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "1",
       "MIN(Number of Affected Workers )": "0"
-    },
-    {
-      "Date Posted": "2026-11-10",
-      "Date of WARN Notice": "9/24/2026",
-      "Workforce Development Area": "Buffalo and Erie County",
-      "Impacted Site County": "Erie",
-      "Business Legal Name": "Health Research Inc.",
-      "Impacted Site Address": "Elm & Carlton Sts  Buffalo, NY, 14263",
-      "Industry": "Professional, Scientific, and Technical Services",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-12-24",
-      "Reason for Layoff/Closure   ": "Contract Termination",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "1",
-      "MIN(Number of Affected Workers )": "760"
     },
     {
       "Date Posted": "2026-08-27",
@@ -129,6 +114,21 @@
       "Permanent or Temporary Layoff?": "Permanent",
       "AGG(Index)": "2",
       "MIN(Number of Affected Workers )": "20"
+    },
+    {
+      "Date Posted": "2026-11-10",
+      "Date of WARN Notice": "9/24/2026",
+      "Workforce Development Area": "Buffalo and Erie County",
+      "Impacted Site County": "Erie",
+      "Business Legal Name": "Health Research Inc.",
+      "Impacted Site Address": "Elm & Carlton Sts  Buffalo, NY, 14263",
+      "Industry": "Professional, Scientific, and Technical Services",
+      "Layoff or Closure?": "Closure",
+      "Date Layoff/Closure Starts": "2026-12-24",
+      "Reason for Layoff/Closure   ": "Contract Termination",
+      "Permanent or Temporary Layoff?": "Permanent",
+      "AGG(Index)": "2",
+      "MIN(Number of Affected Workers )": "760"
     },
     {
       "Date Posted": "2026-06-11",
@@ -757,7 +757,7 @@
       "Date Layoff/Closure Starts": "2026-01-05",
       "Reason for Layoff/Closure   ": "Contract Termination",
       "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "70",
+      "AGG(Index)": "71",
       "MIN(Number of Affected Workers )": "179"
     },
     {
@@ -2295,5 +2295,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 145 WARN notices for target counties (out of 951 statewide).\n  4 posted in the last 7 days (since 2026-11-11).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 16 notices\n  - Chautauqua: 12 notices\n  - Warren: 6 notices\n  - Saratoga: 5 notices\n  - Cattaraugus: 5 notices\n  - Rensselaer: 3 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 145 WARN notices for target counties (out of 952 statewide).\n  4 posted in the last 7 days (since 2026-11-12).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 16 notices\n  - Chautauqua: 12 notices\n  - Warren: 6 notices\n  - Saratoga: 5 notices\n  - Cattaraugus: 5 notices\n  - Rensselaer: 3 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
