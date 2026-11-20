@@ -1,11 +1,11 @@
 {
-  "scrapedAt": "2026-11-19T20:21:17.748Z",
+  "scrapedAt": "2026-11-20T19:52:50.579Z",
   "source": "https://public.tableau.com/views/WorkerAdjustmentRetrainingNotificationWARN/WARN",
   "totalRows": 952,
   "filteredRows": 145,
   "recentWindowDays": 7,
-  "recentCutoff": "2026-11-12",
-  "recentCount": 4,
+  "recentCutoff": "2026-11-13",
+  "recentCount": 0,
   "targetCounties": [
     "Erie",
     "Niagara",
@@ -2216,68 +2216,7 @@
       "MIN(Number of Affected Workers )": "93"
     }
   ],
-  "recentRecords": [
-    {
-      "Date Posted": "2026-11-12",
-      "Date of WARN Notice": "10/1/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Albany",
-      "Business Legal Name": "Ambulnz NY2, LLC.",
-      "Impacted Site Address": "25 Central Ave  Cohoes, NY, 12047",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-12-31",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "1",
-      "MIN(Number of Affected Workers )": "0"
-    },
-    {
-      "Date Posted": "2026-11-12",
-      "Date of WARN Notice": "10/1/2026",
-      "Workforce Development Area": "Albany-Rensselaer-Schenectady",
-      "Impacted Site County": "Rensselaer",
-      "Business Legal Name": "Ambulnz NY2, LLC.",
-      "Impacted Site Address": "901 3rd St  Rensselaer, NY, 12144",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-12-31",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "2",
-      "MIN(Number of Affected Workers )": "20"
-    },
-    {
-      "Date Posted": "2026-11-12",
-      "Date of WARN Notice": "10/1/2026",
-      "Workforce Development Area": "Saratoga-Warren-Washington",
-      "Impacted Site County": "Saratoga",
-      "Business Legal Name": "Ambulnz NY2, LLC.",
-      "Impacted Site Address": "211 Church St  Saratoga Springs, NY, 12866",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-12-31",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "9",
-      "MIN(Number of Affected Workers )": "0"
-    },
-    {
-      "Date Posted": "2026-11-12",
-      "Date of WARN Notice": "10/1/2026",
-      "Workforce Development Area": "Saratoga-Warren-Washington",
-      "Impacted Site County": "Warren",
-      "Business Legal Name": "Ambulnz NY2, LLC.",
-      "Impacted Site Address": "100 Park St  Glens Falls, NY, 12801",
-      "Industry": "Health Care and Social Assistance",
-      "Layoff or Closure?": "Closure",
-      "Date Layoff/Closure Starts": "2026-12-31",
-      "Reason for Layoff/Closure   ": "Economic",
-      "Permanent or Temporary Layoff?": "Permanent",
-      "AGG(Index)": "10",
-      "MIN(Number of Affected Workers )": "3"
-    }
-  ],
+  "recentRecords": [],
   "countyCounts": {
     "Albany": 16,
     "Erie": 69,
@@ -2295,5 +2234,5 @@
     "Genesee": 3,
     "Wyoming": 1
   },
-  "summary": "Found 145 WARN notices for target counties (out of 952 statewide).\n  4 posted in the last 7 days (since 2026-11-12).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 16 notices\n  - Chautauqua: 12 notices\n  - Warren: 6 notices\n  - Saratoga: 5 notices\n  - Cattaraugus: 5 notices\n  - Rensselaer: 3 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
+  "summary": "Found 145 WARN notices for target counties (out of 952 statewide).\n  0 posted in the last 7 days (since 2026-11-13).\n  - Erie: 69 notices\n  - Niagara: 18 notices\n  - Albany: 16 notices\n  - Chautauqua: 12 notices\n  - Warren: 6 notices\n  - Saratoga: 5 notices\n  - Cattaraugus: 5 notices\n  - Rensselaer: 3 notices\n  - Genesee: 3 notices\n  - Schenectady: 2 notices\n  - Allegany: 2 notices\n  - Columbia: 1 notices\n  - Orleans: 1 notices\n  - Greene: 1 notices\n  - Wyoming: 1 notices"
 }
